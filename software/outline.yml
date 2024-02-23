@@ -1,6 +1,6 @@
-name: Outline
-website_url: https://www.getoutline.com/
-description: An open, extensible, wiki for your team.
+name: "Outline"
+website_url: "https://www.getoutline.com/"
+description: "An open, extensible, wiki for your team."
 licenses:
   - BSD-3-Clause
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Wikis
-source_code_url: https://github.com/outline/outline
+source_code_url: "https://github.com/outline/outline"
 depends_3rdparty: true
 stargazers_count: 22805
 updated_at: '2024-02-22'

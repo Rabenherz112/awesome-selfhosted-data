@@ -1,13 +1,13 @@
-name: NodeBB
-website_url: https://nodebb.org/
-description: Forum software built for the modern web.
+name: "NodeBB"
+website_url: "https://nodebb.org/"
+description: "Forum software built for the modern web."
 licenses:
   - GPL-3.0
 platforms:
   - Nodejs
 tags:
   - Communication - Social Networks and Forums
-source_code_url: https://github.com/NodeBB/NodeBB
+source_code_url: "https://github.com/NodeBB/NodeBB"
 stargazers_count: 13760
 updated_at: '2024-02-22'
 archived: false

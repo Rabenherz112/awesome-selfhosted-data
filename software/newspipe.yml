@@ -1,11 +1,11 @@
-name: Newspipe
-website_url: https://git.sr.ht/~cedric/newspipe
-description: Newspipe is a web news reader.
+name: "Newspipe"
+website_url: "https://git.sr.ht/~cedric/newspipe"
+description: "Newspipe is a web news reader."
 licenses:
   - AGPL-3.0
 platforms:
   - Python
 tags:
   - Feed Readers
-source_code_url: https://git.sr.ht/~cedric/newspipe
-demo_url: https://www.newspipe.org/signup
+source_code_url: "https://git.sr.ht/~cedric/newspipe"
+demo_url: "https://www.newspipe.org/signup"

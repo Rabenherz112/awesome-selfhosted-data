@@ -1,11 +1,11 @@
-name: SupportPal
-website_url: https://www.supportpal.com/
-description: Powerful help desk software - easy, fast and intuitive.
+name: "SupportPal"
+website_url: "https://www.supportpal.com/"
+description: "Powerful help desk software - easy, fast and intuitive."
 licenses:
   - ⊘ Proprietary
 platforms:
   - PHP
 tags:
   - Ticketing
-source_code_url: https://www.supportpal.com/
-demo_url: https://demo.supportpal.com/en
+source_code_url: "https://www.supportpal.com/"
+demo_url: "https://demo.supportpal.com/en"

@@ -1,6 +1,6 @@
-name: Weechat
-website_url: https://weechat.org/
-description: Fast, light and extensible chat client.
+name: "Weechat"
+website_url: "https://weechat.org/"
+description: "Fast, light and extensible chat client."
 licenses:
   - GPL-3.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - deb
 tags:
   - Communication - IRC
-source_code_url: https://github.com/weechat/weechat
+source_code_url: "https://github.com/weechat/weechat"
 stargazers_count: 2789
 updated_at: '2024-02-22'
 archived: false

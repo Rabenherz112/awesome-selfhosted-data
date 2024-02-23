@@ -1,6 +1,6 @@
-name: DOCAT
-website_url: https://github.com/docat-org/docat
-description: Host your docs. Simple. Versioned. Fancy.
+name: "DOCAT"
+website_url: "https://github.com/docat-org/docat"
+description: "Host your docs. Simple. Versioned. Fancy."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Document Management
-source_code_url: https://github.com/docat-org/docat
+source_code_url: "https://github.com/docat-org/docat"
 stargazers_count: 711
 updated_at: '2024-02-15'
 archived: false

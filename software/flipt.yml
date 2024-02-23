@@ -1,7 +1,7 @@
-name: Flipt
-website_url: https://flipt.io
-source_code_url: https://github.com/flipt-io/flipt
-description: Feature flag solution with support for multiple data backends (alternative to LaunchDarkly).
+name: "Flipt"
+website_url: "https://flipt.io"
+source_code_url: "https://github.com/flipt-io/flipt"
+description: "Feature flag solution with support for multiple data backends (alternative to LaunchDarkly)."
 licenses:
   - GPL-3.0
 platforms:
@@ -10,7 +10,7 @@ platforms:
   - Go
 tags:
   - Miscellaneous
-demo_url: https://try.flipt.io
+demo_url: "https://try.flipt.io"
 stargazers_count: 3193
 updated_at: '2024-02-21'
 archived: false

@@ -1,6 +1,6 @@
-name: Hoppscotch Community Edition
-website_url: https://hoppscotch.io
-description: A free, fast and beautiful API request builder.
+name: "Hoppscotch Community Edition"
+website_url: "https://hoppscotch.io"
+description: "A free, fast and beautiful API request builder."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Software Development - API Management
-source_code_url: https://github.com/hoppscotch/hoppscotch
+source_code_url: "https://github.com/hoppscotch/hoppscotch"
 stargazers_count: 58958
 updated_at: '2024-02-15'
 archived: false

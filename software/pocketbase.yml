@@ -1,6 +1,6 @@
-name: PocketBase
-website_url: https://pocketbase.io/
-description: Open Source backend for your next SaaS and Mobile app in 1 file.
+name: "PocketBase"
+website_url: "https://pocketbase.io/"
+description: "Open Source backend for your next SaaS and Mobile app in 1 file."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Software Development - Low Code
-source_code_url: https://github.com/pocketbase/pocketbase
+source_code_url: "https://github.com/pocketbase/pocketbase"
 stargazers_count: 31741
 updated_at: '2024-02-10'
 archived: false

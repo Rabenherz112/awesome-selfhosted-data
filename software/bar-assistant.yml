@@ -1,6 +1,6 @@
-name: Bar Assistant
-website_url: https://github.com/karlomikus/bar-assistant
-description: Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes.
+name: "Bar Assistant"
+website_url: "https://github.com/karlomikus/bar-assistant"
+description: "Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes."
 licenses:
   - MIT
 platforms:
@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - Recipe Management
-source_code_url: https://github.com/karlomikus/bar-assistant
-demo_url: https://bar.karlomikus.com/
+source_code_url: "https://github.com/karlomikus/bar-assistant"
+demo_url: "https://bar.karlomikus.com/"
 stargazers_count: 314
 updated_at: '2024-02-16'
 archived: false

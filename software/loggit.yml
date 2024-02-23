@@ -1,14 +1,14 @@
-name: Loggit
-website_url: https://loggit.net
-description: End-to-end encrypted and simple life tracking & logging.
+name: "Loggit"
+website_url: "https://loggit.net"
+description: "End-to-end encrypted and simple life tracking & logging."
 licenses:
   - AGPL-3.0
 platforms:
   - Deno
 tags:
   - Miscellaneous
-source_code_url: https://github.com/BrunoBernardino/loggit-web
-demo_url: https://app.loggit.net
+source_code_url: "https://github.com/BrunoBernardino/loggit-web"
+demo_url: "https://app.loggit.net"
 stargazers_count: 24
 updated_at: '2024-01-26'
 archived: false

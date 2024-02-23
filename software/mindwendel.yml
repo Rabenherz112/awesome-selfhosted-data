@@ -1,6 +1,6 @@
-name: Mindwendel
-website_url: https://www.mindwendel.com/
-description: Brainstorm and upvote ideas and thoughts within your team.
+name: "Mindwendel"
+website_url: "https://www.mindwendel.com/"
+description: "Brainstorm and upvote ideas and thoughts within your team."
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,8 +8,8 @@ platforms:
   - Elixir
 tags:
   - Software Development - Project Management
-source_code_url: https://github.com/b310-digital/mindwendel
-demo_url: https://www.mindwendel.com
+source_code_url: "https://github.com/b310-digital/mindwendel"
+demo_url: "https://www.mindwendel.com"
 stargazers_count: 52
 updated_at: '2024-02-02'
 archived: false

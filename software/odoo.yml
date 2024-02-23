@@ -1,6 +1,6 @@
-name: Odoo
-website_url: https://www.odoo.com
-description: Free open source ERP system.
+name: "Odoo"
+website_url: "https://www.odoo.com"
+description: "Free open source ERP system."
 licenses:
   - LGPL-3.0
 platforms:
@@ -9,8 +9,8 @@ platforms:
   - Docker
 tags:
   - Resource Planning
-source_code_url: https://github.com/odoo/odoo
-demo_url: https://demo.odoo.com/
+source_code_url: "https://github.com/odoo/odoo"
+demo_url: "https://demo.odoo.com/"
 stargazers_count: 33406
 updated_at: '2024-02-22'
 archived: false

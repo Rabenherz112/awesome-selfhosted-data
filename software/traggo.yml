@@ -1,6 +1,6 @@
-name: Traggo
-website_url: https://traggo.net/
-description: Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans.
+name: "Traggo"
+website_url: "https://traggo.net/"
+description: "Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans."
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Go
 tags:
   - Time Tracking
-source_code_url: https://github.com/traggo/server
+source_code_url: "https://github.com/traggo/server"
 stargazers_count: 950
 updated_at: '2024-01-09'
 archived: false

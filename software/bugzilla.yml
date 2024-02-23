@@ -1,13 +1,13 @@
-name: Bugzilla
-website_url: https://www.bugzilla.org/
-description: General-purpose bugtracker and testing tool originally developed and used by the Mozilla project.
+name: "Bugzilla"
+website_url: "https://www.bugzilla.org/"
+description: "General-purpose bugtracker and testing tool originally developed and used by the Mozilla project."
 licenses:
   - MPL-2.0
 platforms:
   - Perl
 tags:
   - Ticketing
-source_code_url: https://github.com/bugzilla/bugzilla
+source_code_url: "https://github.com/bugzilla/bugzilla"
 stargazers_count: 620
 updated_at: '2024-01-03'
 archived: false

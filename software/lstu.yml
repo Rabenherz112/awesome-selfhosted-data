@@ -1,6 +1,6 @@
-name: Lstu
-website_url: https://github.com/ldidry/lstu
-description: Lightweight URL shortener.
+name: "Lstu"
+website_url: "https://github.com/ldidry/lstu"
+description: "Lightweight URL shortener."
 licenses:
   - WTFPL
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - URL Shorteners
-source_code_url: https://github.com/ldidry/lstu
+source_code_url: "https://github.com/ldidry/lstu"
 stargazers_count: 201
 updated_at: '2023-12-17'
 archived: false

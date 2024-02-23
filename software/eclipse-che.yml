@@ -1,6 +1,6 @@
-name: Eclipse Che
-website_url: https://www.eclipse.org/che/
-description: Open source workspace server and cloud IDE.
+name: "Eclipse Che"
+website_url: "https://www.eclipse.org/che/"
+description: "Open source workspace server and cloud IDE."
 licenses:
   - EPL-1.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Java
 tags:
   - Software Development - IDE & Tools
-source_code_url: https://github.com/eclipse/che
+source_code_url: "https://github.com/eclipse/che"
 stargazers_count: 6909
 updated_at: '2024-02-21'
 archived: false

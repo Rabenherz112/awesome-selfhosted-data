@@ -1,13 +1,13 @@
-name: FlatPress
-website_url: https://flatpress.org/
-description: A lightweight, easy-to-set-up flat-file blogging engine.
+name: "FlatPress"
+website_url: "https://flatpress.org/"
+description: "A lightweight, easy-to-set-up flat-file blogging engine."
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
   - Blogging Platforms
-source_code_url: https://github.com/flatpressblog/flatpress
+source_code_url: "https://github.com/flatpressblog/flatpress"
 stargazers_count: 173
 updated_at: '2024-02-21'
 archived: false

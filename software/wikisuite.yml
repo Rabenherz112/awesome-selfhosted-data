@@ -1,6 +1,6 @@
-name: WikiSuite
-website_url: https://wikisuite.org
-description: The most comprehensive and integrated Free / Libre / Open Source enterprise software suite.
+name: "WikiSuite"
+website_url: "https://wikisuite.org"
+description: "The most comprehensive and integrated Free / Libre / Open Source enterprise software suite."
 licenses:
   - GPL-3.0
   - LGPL-2.1
@@ -15,4 +15,4 @@ platforms:
   - deb
 tags:
   - Self-hosting Solutions
-source_code_url: https://wikisuite.org/Source-Code
+source_code_url: "https://wikisuite.org/Source-Code"

@@ -1,6 +1,6 @@
-name: DaneeCloud
-website_url: https://docs.daneeskripter.dev/daneecloud/
-description: Multi-user file storage and sharing application.
+name: "DaneeCloud"
+website_url: "https://docs.daneeskripter.dev/daneecloud/"
+description: "Multi-user file storage and sharing application."
 licenses:
   - GPL-3.0
   - SSPL-1.0
@@ -8,8 +8,8 @@ platforms:
   - Nodejs
 tags:
   - File Transfer - Object Storage & File Servers
-source_code_url: https://github.com/DaneeSkripter/DaneeCloud
-demo_url: https://cloud.daneeskripter.dev
+source_code_url: "https://github.com/DaneeSkripter/DaneeCloud"
+demo_url: "https://cloud.daneeskripter.dev"
 stargazers_count: 8
 updated_at: '2024-02-19'
 archived: false

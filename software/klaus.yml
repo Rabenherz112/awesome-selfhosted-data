@@ -1,6 +1,6 @@
-name: Klaus
-website_url: https://github.com/jonashaag/klaus
-description: Simple, easy-to-set-up Git web viewer that Just Works.
+name: "Klaus"
+website_url: "https://github.com/jonashaag/klaus"
+description: "Simple, easy-to-set-up Git web viewer that Just Works."
 licenses:
   - ISC
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Software Development - Project Management
-source_code_url: https://github.com/jonashaag/klaus
+source_code_url: "https://github.com/jonashaag/klaus"
 stargazers_count: 667
 updated_at: '2023-11-27'
 archived: false

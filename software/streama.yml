@@ -1,13 +1,13 @@
-name: Streama
-website_url: https://github.com/streamaserver/streama
-description: Self hosted streaming media server.
+name: "Streama"
+website_url: "https://github.com/streamaserver/streama"
+description: "Self hosted streaming media server."
 licenses:
   - MIT
 platforms:
   - Java
 tags:
   - Media Streaming - Video Streaming
-source_code_url: https://github.com/streamaserver/streama
+source_code_url: "https://github.com/streamaserver/streama"
 stargazers_count: 9536
 updated_at: '2023-10-29'
 archived: false

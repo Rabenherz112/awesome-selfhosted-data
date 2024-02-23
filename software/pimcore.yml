@@ -1,6 +1,6 @@
-name: Pimcore
-website_url: https://www.pimcore.org/
-description: Multi-Channel Experience and Engagement Management Platform.
+name: "Pimcore"
+website_url: "https://www.pimcore.org/"
+description: "Multi-Channel Experience and Engagement Management Platform."
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Content Management Systems (CMS)
-source_code_url: https://github.com/pimcore/pimcore
+source_code_url: "https://github.com/pimcore/pimcore"
 stargazers_count: 3130
 updated_at: '2024-02-19'
 archived: false

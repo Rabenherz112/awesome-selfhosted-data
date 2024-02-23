@@ -1,13 +1,13 @@
-name: GoAccess
-website_url: http://goaccess.io/
-description: Real-time web log analyzer and interactive viewer that runs in a terminal.
+name: "GoAccess"
+website_url: "http://goaccess.io/"
+description: "Real-time web log analyzer and interactive viewer that runs in a terminal."
 licenses:
   - GPL-2.0
 platforms:
   - C
 tags:
   - Analytics
-source_code_url: https://github.com/allinurl/goaccess
+source_code_url: "https://github.com/allinurl/goaccess"
 stargazers_count: 17251
 updated_at: '2024-02-15'
 archived: false

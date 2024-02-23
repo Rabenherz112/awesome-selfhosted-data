@@ -1,14 +1,14 @@
-name: Cubiks-2048
-website_url: https://github.com/Kshitij-Banerjee/Cubiks-2048
-description: Clone of 2048 game in 3D.
+name: "Cubiks-2048"
+website_url: "https://github.com/Kshitij-Banerjee/Cubiks-2048"
+description: "Clone of 2048 game in 3D."
 licenses:
   - CC-BY-NC-4.0
 platforms:
   - Javascript
 tags:
   - Games
-source_code_url: https://github.com/Kshitij-Banerjee/Cubiks-2048
-demo_url: https://kshitij-banerjee.github.io/Cubiks-2048/
+source_code_url: "https://github.com/Kshitij-Banerjee/Cubiks-2048"
+demo_url: "https://kshitij-banerjee.github.io/Cubiks-2048/"
 stargazers_count: 25
 updated_at: '2014-06-07'
 archived: false

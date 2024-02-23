@@ -1,6 +1,6 @@
-name: SIPCAPTURE Homer
-website_url: https://www.sipcapture.org/
-description: Troubleshooting and monitoring VoIP calls.
+name: "SIPCAPTURE Homer"
+website_url: "https://www.sipcapture.org/"
+description: "Troubleshooting and monitoring VoIP calls."
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - Docker
 tags:
   - Communication - SIP
-source_code_url: https://github.com/sipcapture/homer
+source_code_url: "https://github.com/sipcapture/homer"
 stargazers_count: 1465
 updated_at: '2024-02-20'
 archived: false

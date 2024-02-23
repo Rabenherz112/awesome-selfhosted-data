@@ -1,13 +1,13 @@
-name: Huginn
-website_url: https://github.com/huginn/huginn
-description: Allows you to build agents that monitor and act on your behalf.
+name: "Huginn"
+website_url: "https://github.com/huginn/huginn"
+description: "Allows you to build agents that monitor and act on your behalf."
 licenses:
   - MIT
 platforms:
   - Ruby
 tags:
   - Automation
-source_code_url: https://github.com/huginn/huginn
+source_code_url: "https://github.com/huginn/huginn"
 stargazers_count: 40596
 updated_at: '2023-11-20'
 archived: false

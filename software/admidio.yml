@@ -1,6 +1,6 @@
-name: admidio
-website_url: https://www.admidio.org/
-description: Admidio is a free open source user management system for websites of organizations and groups. The system has a flexible role model so that it’s possible to reflect the structure and permissions of your organization.
+name: "admidio"
+website_url: "https://www.admidio.org/"
+description: "Admidio is a free open source user management system for websites of organizations and groups. The system has a flexible role model so that it’s possible to reflect the structure and permissions of your organization."
 licenses:
   - GPL-2.0
 platforms:
@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - Human Resources Management (HRM)
-source_code_url: https://github.com/Admidio/admidio
-demo_url: https://www.admidio.org/demo/
+source_code_url: "https://github.com/Admidio/admidio"
+demo_url: "https://www.admidio.org/demo/"
 stargazers_count: 278
 updated_at: '2024-02-22'
 archived: false

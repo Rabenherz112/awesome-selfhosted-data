@@ -1,6 +1,6 @@
-name: farmOS
-website_url: https://farmos.org/
-description: Web-based farm record keeping application.
+name: "farmOS"
+website_url: "https://farmos.org/"
+description: "Web-based farm record keeping application."
 licenses:
   - GPL-2.0
 platforms:
@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - Resource Planning
-source_code_url: https://github.com/farmOS/farmOS
-demo_url: https://farmos-demo.rootedsolutions.io/
+source_code_url: "https://github.com/farmOS/farmOS"
+demo_url: "https://farmos-demo.rootedsolutions.io/"
 stargazers_count: 883
 updated_at: '2024-02-21'
 archived: false

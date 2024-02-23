@@ -1,13 +1,13 @@
-name: miniserve
-website_url: https://github.com/svenstaro/miniserve
-description: CLI tool to serve files and dirs over HTTP.
+name: "miniserve"
+website_url: "https://github.com/svenstaro/miniserve"
+description: "CLI tool to serve files and dirs over HTTP."
 licenses:
   - MIT
 platforms:
   - Rust
 tags:
   - File Transfer - Web-based File Managers
-source_code_url: https://github.com/svenstaro/miniserve
+source_code_url: "https://github.com/svenstaro/miniserve"
 stargazers_count: 5434
 updated_at: '2024-02-21'
 archived: false

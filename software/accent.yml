@@ -1,6 +1,6 @@
-name: Accent
-website_url: https://www.accent.reviews/
-description: Open-source, self-hosted, developer-oriented translation tool.
+name: "Accent"
+website_url: "https://www.accent.reviews/"
+description: "Open-source, self-hosted, developer-oriented translation tool."
 licenses:
   - BSD-3-Clause
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Software Development - Localization
-source_code_url: https://github.com/mirego/accent
+source_code_url: "https://github.com/mirego/accent"
 stargazers_count: 1115
 updated_at: '2024-02-15'
 archived: false

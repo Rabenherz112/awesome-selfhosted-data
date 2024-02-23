@@ -1,10 +1,10 @@
-name: Full Help
-website_url: https://www.fullhelp.com/en/
-description: Simple, easy to use help desk & knowledge base software. Custom branding, custom themes, restful API, communication channels, multi-company support, multi-language support, and much more! At least 1 new release per month.
+name: "Full Help"
+website_url: "https://www.fullhelp.com/en/"
+description: "Simple, easy to use help desk & knowledge base software. Custom branding, custom themes, restful API, communication channels, multi-company support, multi-language support, and much more! At least 1 new release per month."
 licenses:
   - ⊘ Proprietary
 platforms:
   - PHP
 tags:
   - Ticketing
-source_code_url: https://www.fullhelp.com/en/
+source_code_url: "https://www.fullhelp.com/en/"

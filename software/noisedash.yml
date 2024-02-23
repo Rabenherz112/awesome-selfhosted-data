@@ -1,6 +1,6 @@
-name: Noisedash
-website_url: https://github.com/kaythomas0/noisedash
-description: Self-hostable web tool for generating ambient noises/sounds using audio tools and user-uploadable samples.
+name: "Noisedash"
+website_url: "https://github.com/kaythomas0/noisedash"
+description: "Self-hostable web tool for generating ambient noises/sounds using audio tools and user-uploadable samples."
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Miscellaneous
-source_code_url: https://github.com/kaythomas0/noisedash
+source_code_url: "https://github.com/kaythomas0/noisedash"
 stargazers_count: 259
 updated_at: '2024-01-03'
 archived: false

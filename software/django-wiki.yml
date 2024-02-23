@@ -1,14 +1,14 @@
-name: django-wiki
-website_url: https://github.com/django-wiki/django-wiki
-description: 'Wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.'
+name: "django-wiki"
+website_url: "https://github.com/django-wiki/django-wiki"
+description: "'Wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.'"
 licenses:
   - GPL-3.0
 platforms:
   - Python
 tags:
   - Wikis
-source_code_url: https://github.com/django-wiki/django-wiki
-demo_url: https://demo.django-wiki.org/
+source_code_url: "https://github.com/django-wiki/django-wiki"
+demo_url: "https://demo.django-wiki.org/"
 stargazers_count: 1752
 updated_at: '2024-02-21'
 archived: false

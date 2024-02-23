@@ -1,13 +1,13 @@
-name: Meetable
-website_url: https://events.indieweb.org
-description: A minimal events aggregator.
+name: "Meetable"
+website_url: "https://events.indieweb.org"
+description: "A minimal events aggregator."
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
   - Polls and Events
-source_code_url: https://github.com/aaronpk/Meetable
+source_code_url: "https://github.com/aaronpk/Meetable"
 stargazers_count: 86
 updated_at: '2024-02-21'
 archived: false

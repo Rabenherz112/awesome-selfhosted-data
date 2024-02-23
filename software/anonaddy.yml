@@ -1,6 +1,6 @@
-name: AnonAddy
-website_url: https://anonaddy.com
-description: Open source email forwarding service for creating aliases.
+name: "AnonAddy"
+website_url: "https://anonaddy.com"
+description: "Open source email forwarding service for creating aliases."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Communication - Email - Complete Solutions
-source_code_url: https://github.com/anonaddy/anonaddy
+source_code_url: "https://github.com/anonaddy/anonaddy"
 stargazers_count: 2858
 updated_at: '2024-02-18'
 archived: false

@@ -1,6 +1,6 @@
-name: Claper
-website_url: https://claper.co/
-description: The ultimate tool to interact with your audience (alternative to Slido, AhaSlides and Mentimeter).
+name: "Claper"
+website_url: "https://claper.co/"
+description: "The ultimate tool to interact with your audience (alternative to Slido, AhaSlides and Mentimeter)."
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Polls and Events
-source_code_url: https://github.com/ClaperCo/Claper
+source_code_url: "https://github.com/ClaperCo/Claper"
 stargazers_count: 338
 updated_at: '2023-12-09'
 archived: false

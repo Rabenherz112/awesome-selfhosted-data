@@ -1,6 +1,6 @@
-name: Sshwifty
-website_url: https://github.com/nirui/sshwifty
-description: Sshwifty is a SSH and Telnet connector made for the Web.
+name: "Sshwifty"
+website_url: "https://github.com/nirui/sshwifty"
+description: "Sshwifty is a SSH and Telnet connector made for the Web."
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - Remote Access
-source_code_url: https://github.com/nirui/sshwifty
-demo_url: https://sshwifty-demo.nirui.org
+source_code_url: "https://github.com/nirui/sshwifty"
+demo_url: "https://sshwifty-demo.nirui.org"
 stargazers_count: 2013
 updated_at: '2024-01-08'
 archived: false

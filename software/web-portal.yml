@@ -1,6 +1,6 @@
-name: Web-Portal
-website_url: https://github.com/enchant97/web-portal
-description: A python web app designed to allow a easy way to manage the links to all of your web services.
+name: "Web-Portal"
+website_url: "https://github.com/enchant97/web-portal"
+description: "A python web app designed to allow a easy way to manage the links to all of your web services."
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Python
 tags:
   - Personal Dashboards
-source_code_url: https://github.com/enchant97/web-portal
+source_code_url: "https://github.com/enchant97/web-portal"
 stargazers_count: 168
 updated_at: '2024-01-19'
 archived: false

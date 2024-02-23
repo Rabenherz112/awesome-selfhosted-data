@@ -1,6 +1,6 @@
-name: Unison
-website_url: https://www.cis.upenn.edu/~bcpierce/unison/
-description: Unison is a file-synchronization tool for OSX, Unix, and Windows.
+name: "Unison"
+website_url: "https://www.cis.upenn.edu/~bcpierce/unison/"
+description: "Unison is a file-synchronization tool for OSX, Unix, and Windows."
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - OCaml
 tags:
   - File Transfer & Synchronization
-source_code_url: https://github.com/bcpierce00/unison
+source_code_url: "https://github.com/bcpierce00/unison"
 stargazers_count: 3624
 updated_at: '2024-02-18'
 archived: false

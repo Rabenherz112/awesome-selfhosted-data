@@ -1,13 +1,13 @@
-name: Misago
-website_url: https://misago-project.org/
-description: Misago is fully featured modern forum application that is fast, scalable and responsive.
+name: "Misago"
+website_url: "https://misago-project.org/"
+description: "Misago is fully featured modern forum application that is fast, scalable and responsive."
 licenses:
   - GPL-2.0
 platforms:
   - Docker
 tags:
   - Communication - Social Networks and Forums
-source_code_url: https://github.com/rafalp/Misago
+source_code_url: "https://github.com/rafalp/Misago"
 stargazers_count: 2444
 updated_at: '2024-02-18'
 archived: false

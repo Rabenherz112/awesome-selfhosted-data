@@ -1,6 +1,6 @@
-name: Mopidy
-website_url: https://docs.mopidy.com/
-description: Extensible music server. Offers a superset of the mpd API, as well as integration with 3rd party services like Spotify, SoundCloud etc.
+name: "Mopidy"
+website_url: "https://docs.mopidy.com/"
+description: "Extensible music server. Offers a superset of the mpd API, as well as integration with 3rd party services like Spotify, SoundCloud etc."
 licenses:
   - Apache-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - deb
 tags:
   - Media Streaming - Audio Streaming
-source_code_url: https://github.com/mopidy/mopidy
+source_code_url: "https://github.com/mopidy/mopidy"
 stargazers_count: 7870
 updated_at: '2024-02-22'
 archived: false

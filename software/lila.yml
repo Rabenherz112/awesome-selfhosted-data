@@ -1,13 +1,13 @@
-name: Lila
-website_url: https://lichess.org/
-description: The forever free, adless and open source chess server powering lichess.org, with official iOS and Android client apps.
+name: "Lila"
+website_url: "https://lichess.org/"
+description: "The forever free, adless and open source chess server powering lichess.org, with official iOS and Android client apps."
 licenses:
   - AGPL-3.0
 platforms:
   - Scala
 tags:
   - Games
-source_code_url: https://github.com/lichess-org/lila
+source_code_url: "https://github.com/lichess-org/lila"
 stargazers_count: 14350
 updated_at: '2024-02-22'
 archived: false

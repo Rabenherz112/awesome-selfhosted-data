@@ -1,13 +1,13 @@
-name: SWAG (Secure Web Application Gateway)
-website_url: https://github.com/linuxserver/docker-swag
-description: Nginx webserver and reverse proxy with PHP support, built-in Certbot (Let's Encrypt) client and fail2ban integration.
+name: "SWAG (Secure Web Application Gateway)"
+website_url: "https://github.com/linuxserver/docker-swag"
+description: "Nginx webserver and reverse proxy with PHP support, built-in Certbot (Let's Encrypt) client and fail2ban integration."
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
   - Proxy
-source_code_url: https://github.com/linuxserver/docker-swag
+source_code_url: "https://github.com/linuxserver/docker-swag"
 stargazers_count: 2451
 updated_at: '2024-02-17'
 archived: false

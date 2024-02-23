@@ -1,6 +1,6 @@
-name: Snapcast
-website_url: https://github.com/badaix/snapcast
-description: Synchronous multiroom audio server.
+name: "Snapcast"
+website_url: "https://github.com/badaix/snapcast"
+description: "Synchronous multiroom audio server."
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - deb
 tags:
   - Media Streaming - Audio Streaming
-source_code_url: https://github.com/badaix/snapcast
+source_code_url: "https://github.com/badaix/snapcast"
 stargazers_count: 5612
 updated_at: '2024-02-17'
 archived: false

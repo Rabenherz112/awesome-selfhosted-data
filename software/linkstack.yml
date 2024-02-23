@@ -1,6 +1,6 @@
-name: LinkStack
-website_url: https://linkstack.org/
-description: Link all your social media platforms easily accessible on one page, customizable through an intuitive, easy to use user/admin interface (alternative to Linktree and Manylink).
+name: "LinkStack"
+website_url: "https://linkstack.org/"
+description: "Link all your social media platforms easily accessible on one page, customizable through an intuitive, easy to use user/admin interface (alternative to Linktree and Manylink)."
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - Personal Dashboards
-source_code_url: https://github.com/LinkStackOrg/LinkStack
-demo_url: https://linksta.cc/
+source_code_url: "https://github.com/LinkStackOrg/LinkStack"
+demo_url: "https://linksta.cc/"
 stargazers_count: 1672
 updated_at: '2024-02-21'
 archived: false

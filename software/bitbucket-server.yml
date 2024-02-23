@@ -1,10 +1,10 @@
-name: BitBucket Server
-website_url: https://www.atlassian.com/software/bitbucket/enterprise/data-center
-description: Enterprise-level Git solution similar to GitLab.
+name: "BitBucket Server"
+website_url: "https://www.atlassian.com/software/bitbucket/enterprise/data-center"
+description: "Enterprise-level Git solution similar to GitLab."
 licenses:
   - ⊘ Proprietary
 platforms:
   - Java
 tags:
   - Software Development - Project Management
-source_code_url: https://www.atlassian.com/software/bitbucket/enterprise/data-center
+source_code_url: "https://www.atlassian.com/software/bitbucket/enterprise/data-center"

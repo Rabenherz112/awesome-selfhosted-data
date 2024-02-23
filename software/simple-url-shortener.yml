@@ -1,14 +1,14 @@
-name: Simple-URL-Shortener
-website_url: https://github.com/azlux/Simple-URL-Shortener
-description: KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies.
+name: "Simple-URL-Shortener"
+website_url: "https://github.com/azlux/Simple-URL-Shortener"
+description: "KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies."
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
   - URL Shorteners
-source_code_url: https://github.com/azlux/Simple-URL-Shortener
-demo_url: https://u.azlux.fr
+source_code_url: "https://github.com/azlux/Simple-URL-Shortener"
+demo_url: "https://u.azlux.fr"
 stargazers_count: 41
 updated_at: '2023-12-19'
 archived: false

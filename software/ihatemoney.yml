@@ -1,6 +1,6 @@
-name: IHateMoney
-website_url: https://ihatemoney.org/
-description: Manage your shared expenses, easily.
+name: "IHateMoney"
+website_url: "https://ihatemoney.org/"
+description: "Manage your shared expenses, easily."
 licenses:
   - BSD-3-Clause
 platforms:
@@ -8,8 +8,8 @@ platforms:
   - Python
 tags:
   - Money, Budgeting & Management
-source_code_url: https://github.com/spiral-project/ihatemoney
-demo_url: https://ihatemoney.org/demo/
+source_code_url: "https://github.com/spiral-project/ihatemoney"
+demo_url: "https://ihatemoney.org/demo/"
 stargazers_count: 1065
 updated_at: '2024-02-06'
 archived: false

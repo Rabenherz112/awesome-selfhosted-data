@@ -1,6 +1,6 @@
-name: Opengist
-website_url: https://github.com/thomiceli/opengist
-description: Self-hosted pastebin powered by Git.
+name: "Opengist"
+website_url: "https://github.com/thomiceli/opengist"
+description: "Self-hosted pastebin powered by Git."
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,8 +9,8 @@ platforms:
   - Nodejs
 tags:
   - Pastebins
-source_code_url: https://github.com/thomiceli/opengist
-demo_url: https://opengist.thomice.li
+source_code_url: "https://github.com/thomiceli/opengist"
+demo_url: "https://opengist.thomice.li"
 stargazers_count: 695
 updated_at: '2024-02-19'
 archived: false

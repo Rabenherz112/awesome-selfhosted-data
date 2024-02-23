@@ -1,13 +1,13 @@
-name: Documize
-website_url: https://documize.com
-description: Modern Docs + Wiki software with built-in workflow, single binary executable, just bring MySQL/Percona.
+name: "Documize"
+website_url: "https://documize.com"
+description: "Modern Docs + Wiki software with built-in workflow, single binary executable, just bring MySQL/Percona."
 licenses:
   - AGPL-3.0
 platforms:
   - Go
 tags:
   - Wikis
-source_code_url: https://github.com/documize/community
+source_code_url: "https://github.com/documize/community"
 stargazers_count: 2024
 updated_at: '2024-02-19'
 archived: false

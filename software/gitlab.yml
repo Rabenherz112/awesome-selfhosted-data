@@ -1,6 +1,6 @@
-name: GitLab
-website_url: https://about.gitlab.com
-description: Self Hosted Git repository management, code reviews, issue tracking, activity feeds and wikis.
+name: "GitLab"
+website_url: "https://about.gitlab.com"
+description: "Self Hosted Git repository management, code reviews, issue tracking, activity feeds and wikis."
 licenses:
   - MIT
 platforms:
@@ -10,5 +10,5 @@ platforms:
   - K8S
 tags:
   - Software Development - Project Management
-source_code_url: https://gitlab.com/gitlab-org/gitlab-foss
-demo_url: https://gitlab.com/
+source_code_url: "https://gitlab.com/gitlab-org/gitlab-foss"
+demo_url: "https://gitlab.com/"

@@ -1,6 +1,6 @@
-name: Roundcube
-website_url: https://roundcube.net
-description: Browser-based IMAP client with an application-like user interface.
+name: "Roundcube"
+website_url: "https://roundcube.net"
+description: "Browser-based IMAP client with an application-like user interface."
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - deb
 tags:
   - Communication - Email - Webmail Clients
-source_code_url: https://github.com/roundcube/roundcubemail
+source_code_url: "https://github.com/roundcube/roundcubemail"
 stargazers_count: 5404
 updated_at: '2024-02-18'
 archived: false

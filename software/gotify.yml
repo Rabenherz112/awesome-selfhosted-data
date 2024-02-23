@@ -1,6 +1,6 @@
-name: Gotify
-website_url: https://gotify.net/
-description: Self-hosted notification server with Android and CLI clients, similar to PushBullet.
+name: "Gotify"
+website_url: "https://gotify.net/"
+description: "Self-hosted notification server with Android and CLI clients, similar to PushBullet."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Communication - Custom Communication Systems
-source_code_url: https://github.com/gotify/server
+source_code_url: "https://github.com/gotify/server"
 related_software_url: https://github.com/gotify/android
 stargazers_count: 9845
 updated_at: '2024-02-10'

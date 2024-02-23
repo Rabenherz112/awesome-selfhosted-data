@@ -1,6 +1,6 @@
-name: ArchiveBox
-website_url: https://archivebox.io/
-description: Self-hosted _wayback machine_ that creates HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources.
+name: "ArchiveBox"
+website_url: "https://archivebox.io/"
+description: "Self-hosted _wayback machine_ that creates HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Archiving and Digital Preservation (DP)
-source_code_url: https://github.com/ArchiveBox/ArchiveBox
+source_code_url: "https://github.com/ArchiveBox/ArchiveBox"
 stargazers_count: 19066
 updated_at: '2024-02-22'
 archived: false

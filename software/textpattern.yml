@@ -1,14 +1,14 @@
-name: Textpattern
-website_url: https://textpattern.com/
-description: Flexible, elegant and easy-to-use CMS.
+name: "Textpattern"
+website_url: "https://textpattern.com/"
+description: "Flexible, elegant and easy-to-use CMS."
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
   - Content Management Systems (CMS)
-source_code_url: https://github.com/textpattern/textpattern
-demo_url: https://textpattern.co/demo
+source_code_url: "https://github.com/textpattern/textpattern"
+demo_url: "https://textpattern.co/demo"
 stargazers_count: 749
 updated_at: '2024-02-15'
 archived: false

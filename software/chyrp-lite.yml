@@ -1,13 +1,13 @@
-name: Chyrp Lite
-website_url: https://chyrplite.net
-description: Extra-awesome, extra-lightweight blog engine.
+name: "Chyrp Lite"
+website_url: "https://chyrplite.net"
+description: "Extra-awesome, extra-lightweight blog engine."
 licenses:
   - BSD-3-Clause
 platforms:
   - PHP
 tags:
   - Blogging Platforms
-source_code_url: https://github.com/xenocrat/chyrp-lite
+source_code_url: "https://github.com/xenocrat/chyrp-lite"
 stargazers_count: 274
 updated_at: '2024-02-22'
 archived: false

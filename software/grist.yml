@@ -1,6 +1,6 @@
-name: Grist
-website_url: https://getgrist.com/
-description: Grist is a next-generation spreadsheet with relational structure, formula-based access control, and a portable, self-contained format (alternative to Airtable).
+name: "Grist"
+website_url: "https://getgrist.com/"
+description: "Grist is a next-generation spreadsheet with relational structure, formula-based access control, and a portable, self-contained format (alternative to Airtable)."
 licenses:
   - Apache-2.0
 platforms:
@@ -9,8 +9,8 @@ platforms:
   - Docker
 tags:
   - Office Suites
-source_code_url: https://github.com/gristlabs/grist-core
-demo_url: https://docs.getgrist.com
+source_code_url: "https://github.com/gristlabs/grist-core"
+demo_url: "https://docs.getgrist.com"
 stargazers_count: 5967
 updated_at: '2024-02-22'
 archived: false

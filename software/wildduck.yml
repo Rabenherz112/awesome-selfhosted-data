@@ -1,6 +1,6 @@
-name: wildduck
-website_url: https://wildduck.email/
-description: Scalable no-SPOF IMAP/POP3 mail server.
+name: "wildduck"
+website_url: "https://wildduck.email/"
+description: "Scalable no-SPOF IMAP/POP3 mail server."
 licenses:
   - EUPL-1.2
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Communication - Email - Complete Solutions
-source_code_url: https://github.com/nodemailer/wildduck
+source_code_url: "https://github.com/nodemailer/wildduck"
 stargazers_count: 1809
 updated_at: '2024-02-22'
 archived: false

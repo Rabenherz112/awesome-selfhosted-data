@@ -1,13 +1,13 @@
-name: WackoWiki
-website_url: https://wackowiki.org/
-description: WackoWiki is a light and easy to install multilingual Wiki-engine.
+name: "WackoWiki"
+website_url: "https://wackowiki.org/"
+description: "WackoWiki is a light and easy to install multilingual Wiki-engine."
 licenses:
   - BSD-3-Clause
 platforms:
   - PHP
 tags:
   - Wikis
-source_code_url: https://github.com/WackoWiki/wackowiki
+source_code_url: "https://github.com/WackoWiki/wackowiki"
 stargazers_count: 37
 updated_at: '2024-02-18'
 archived: false

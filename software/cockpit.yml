@@ -1,13 +1,13 @@
-name: Cockpit
-website_url: https://getcockpit.com
-description: Simple Content Platform to manage any structured content.
+name: "Cockpit"
+website_url: "https://getcockpit.com"
+description: "Simple Content Platform to manage any structured content."
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
   - Content Management Systems (CMS)
-source_code_url: https://github.com/Cockpit-HQ/Cockpit
+source_code_url: "https://github.com/Cockpit-HQ/Cockpit"
 stargazers_count: 302
 updated_at: '2024-02-21'
 archived: false

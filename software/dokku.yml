@@ -1,6 +1,6 @@
-name: Dokku
-website_url: https://dokku.com/
-description: An open-source PaaS (alternative to Heroku).
+name: "Dokku"
+website_url: "https://dokku.com/"
+description: "An open-source PaaS (alternative to Heroku)."
 licenses:
   - MIT
 platforms:
@@ -10,7 +10,7 @@ platforms:
   - deb
 tags:
   - Software Development - FaaS & Serverless
-source_code_url: https://github.com/dokku/dokku
+source_code_url: "https://github.com/dokku/dokku"
 stargazers_count: 25752
 updated_at: '2024-02-22'
 archived: false

@@ -1,6 +1,6 @@
-name: Gokapi
-website_url: https://github.com/Forceu/gokapi
-description: Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files.
+name: "Gokapi"
+website_url: "https://github.com/Forceu/gokapi"
+description: "Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files."
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
-source_code_url: https://github.com/Forceu/gokapi
+source_code_url: "https://github.com/Forceu/gokapi"
 stargazers_count: 906
 updated_at: '2024-02-07'
 archived: false

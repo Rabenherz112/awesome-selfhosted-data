@@ -1,13 +1,13 @@
-name: Collective Access - Providence
-website_url: https://collectiveaccess.org/
-description: Highly configurable Web-based framework for management, description, and discovery of digital and physical collections supporting a variety of metadata standards, data types, and media formats.
+name: "Collective Access - Providence"
+website_url: "https://collectiveaccess.org/"
+description: "Highly configurable Web-based framework for management, description, and discovery of digital and physical collections supporting a variety of metadata standards, data types, and media formats."
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
   - Archiving and Digital Preservation (DP)
-source_code_url: https://github.com/collectiveaccess/providence
+source_code_url: "https://github.com/collectiveaccess/providence"
 stargazers_count: 274
 updated_at: '2024-01-08'
 archived: false

@@ -1,6 +1,6 @@
-name: Motor Admin
-website_url: https://www.getmotoradmin.com/
-description: No-code admin panel and business intelligence software - search, create, update, and delete data entries, create custom actions, and build reports.
+name: "Motor Admin"
+website_url: "https://www.getmotoradmin.com/"
+description: "No-code admin panel and business intelligence software - search, create, update, and delete data entries, create custom actions, and build reports."
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Software Development - Low Code
-source_code_url: https://github.com/motor-admin/motor-admin
+source_code_url: "https://github.com/motor-admin/motor-admin"
 stargazers_count: 1862
 updated_at: '2023-12-31'
 archived: false

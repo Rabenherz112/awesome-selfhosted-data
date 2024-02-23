@@ -1,6 +1,6 @@
-name: Wiki.js
-website_url: https://js.wiki/
-description: Modern, lightweight and powerful wiki app using Git and Markdown.
+name: "Wiki.js"
+website_url: "https://js.wiki/"
+description: "Modern, lightweight and powerful wiki app using Git and Markdown."
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,8 +9,8 @@ platforms:
   - K8S
 tags:
   - Wikis
-source_code_url: https://github.com/Requarks/wiki
-demo_url: https://docs.requarks.io
+source_code_url: "https://github.com/Requarks/wiki"
+demo_url: "https://docs.requarks.io"
 stargazers_count: 23022
 updated_at: '2024-02-07'
 archived: false

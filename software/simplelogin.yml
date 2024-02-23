@@ -1,6 +1,6 @@
-name: SimpleLogin
-website_url: https://simplelogin.io
-description: Open source email alias solution to protect your email address. Comes with browser extensions and mobile apps.
+name: "SimpleLogin"
+website_url: "https://simplelogin.io"
+description: "Open source email alias solution to protect your email address. Comes with browser extensions and mobile apps."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Python
 tags:
   - Communication - Email - Complete Solutions
-source_code_url: https://github.com/simple-login/app
+source_code_url: "https://github.com/simple-login/app"
 stargazers_count: 4497
 updated_at: '2024-02-22'
 archived: false

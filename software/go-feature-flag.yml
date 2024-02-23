@@ -1,13 +1,13 @@
-name: GO Feature Flag
-website_url: https://gofeatureflag.org
-description: Simple, complete, and lightweight feature flag solution (alternative to LaunchDarkly).
+name: "GO Feature Flag"
+website_url: "https://gofeatureflag.org"
+description: "Simple, complete, and lightweight feature flag solution (alternative to LaunchDarkly)."
 licenses:
   - MIT
 platforms:
   - Go
 tags:
   - Miscellaneous
-source_code_url: https://github.com/thomaspoignant/go-feature-flag
+source_code_url: "https://github.com/thomaspoignant/go-feature-flag"
 stargazers_count: 1014
 updated_at: '2024-02-21'
 archived: false

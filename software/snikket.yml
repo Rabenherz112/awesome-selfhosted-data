@@ -1,13 +1,13 @@
-name: Snikket
-website_url: https://snikket.org/
-description: All-in-one Dockerized easy XMPP solution, including web admin and clients.
+name: "Snikket"
+website_url: "https://snikket.org/"
+description: "All-in-one Dockerized easy XMPP solution, including web admin and clients."
 licenses:
   - Apache-2.0
 platforms:
   - Docker
 tags:
   - Communication - XMPP - Servers
-source_code_url: https://github.com/snikket-im/snikket-server
+source_code_url: "https://github.com/snikket-im/snikket-server"
 related_software_url: https://snikket.org/app/
 stargazers_count: 235
 updated_at: '2024-02-21'

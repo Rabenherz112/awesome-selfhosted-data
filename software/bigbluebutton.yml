@@ -1,13 +1,13 @@
-name: BigBlueButton
-website_url: https://bigbluebutton.org/
-description: Supports real-time sharing of audio, video, slides (with whiteboard controls), chat, and the screen. Instructors can engage remote students with polling, emojis, and breakout rooms.
+name: "BigBlueButton"
+website_url: "https://bigbluebutton.org/"
+description: "Supports real-time sharing of audio, video, slides (with whiteboard controls), chat, and the screen. Instructors can engage remote students with polling, emojis, and breakout rooms."
 licenses:
   - LGPL-3.0
 platforms:
   - Java
 tags:
   - Communication - Video Conferencing
-source_code_url: https://github.com/bigbluebutton/bigbluebutton
+source_code_url: "https://github.com/bigbluebutton/bigbluebutton"
 stargazers_count: 8279
 updated_at: '2024-02-02'
 archived: false

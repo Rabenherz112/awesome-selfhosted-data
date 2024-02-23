@@ -1,6 +1,6 @@
-name: Weblate
-website_url: https://weblate.org
-description: Web-based translation tool with tight version control integration.
+name: "Weblate"
+website_url: "https://weblate.org"
+description: "Web-based translation tool with tight version control integration."
 licenses:
   - GPL-3.0
 platforms:
@@ -9,8 +9,8 @@ platforms:
   - K8S
 tags:
   - Software Development - Localization
-source_code_url: https://github.com/WeblateOrg/weblate
-demo_url: https://demo.weblate.org
+source_code_url: "https://github.com/WeblateOrg/weblate"
+demo_url: "https://demo.weblate.org"
 stargazers_count: 4085
 updated_at: '2024-02-22'
 archived: false

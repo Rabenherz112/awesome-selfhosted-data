@@ -1,13 +1,13 @@
-name: Immich
-website_url: https://immich.app/
-description: Self-hosted photo and video backup solution directly from your mobile phone.
+name: "Immich"
+website_url: "https://immich.app/"
+description: "Self-hosted photo and video backup solution directly from your mobile phone."
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
   - Photo and Video Galleries
-source_code_url: https://github.com/immich-app/immich
+source_code_url: "https://github.com/immich-app/immich"
 stargazers_count: 26145
 updated_at: '2024-02-22'
 archived: false

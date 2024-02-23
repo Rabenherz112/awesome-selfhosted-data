@@ -1,6 +1,6 @@
-name: µTask
-website_url: https://github.com/ovh/utask
-description: Automation engine that models and executes business processes declared in yaml.
+name: "µTask"
+website_url: "https://github.com/ovh/utask"
+description: "Automation engine that models and executes business processes declared in yaml."
 licenses:
   - BSD-3-Clause
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Automation
-source_code_url: https://github.com/ovh/utask
+source_code_url: "https://github.com/ovh/utask"
 stargazers_count: 1068
 updated_at: '2024-01-24'
 archived: false

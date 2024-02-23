@@ -1,13 +1,13 @@
-name: Nullboard
-website_url: https://github.com/apankrat/nullboard
-description: Single-page minimalist kanban board; compact, highly readable and quick to use.
+name: "Nullboard"
+website_url: "https://github.com/apankrat/nullboard"
+description: "Single-page minimalist kanban board; compact, highly readable and quick to use."
 licenses:
   - BSD-2-Clause
 platforms:
   - Javascript
 tags:
   - Task Management & To-do Lists
-source_code_url: https://github.com/apankrat/nullboard
+source_code_url: "https://github.com/apankrat/nullboard"
 stargazers_count: 2456
 updated_at: '2023-11-05'
 archived: false

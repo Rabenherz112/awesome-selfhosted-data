@@ -1,10 +1,10 @@
-name: Mailman
-website_url: https://www.gnu.org/software/mailman/
-description: The Gnu mailing list server.
+name: "Mailman"
+website_url: "https://www.gnu.org/software/mailman/"
+description: "The Gnu mailing list server."
 licenses:
   - GPL-3.0
 platforms:
   - Python
 tags:
   - Communication - Email - Mailing Lists and Newsletters
-source_code_url: https://www.gnu.org/software/mailman/
+source_code_url: "https://www.gnu.org/software/mailman/"

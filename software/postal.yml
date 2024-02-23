@@ -1,6 +1,6 @@
-name: Postal
-website_url: https://docs.postalserver.io/
-description: A complete and fully featured mail server for use by websites & web servers.
+name: "Postal"
+website_url: "https://docs.postalserver.io/"
+description: "A complete and fully featured mail server for use by websites & web servers."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Ruby
 tags:
   - Communication - Email - Complete Solutions
-source_code_url: https://github.com/postalserver/postal
+source_code_url: "https://github.com/postalserver/postal"
 stargazers_count: 13636
 updated_at: '2024-02-22'
 archived: false

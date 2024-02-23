@@ -1,6 +1,6 @@
-name: Novu
-website_url: https://novu.co/
-description: Self-hosted / cloud notification infrastructure for developers.
+name: "Novu"
+website_url: "https://novu.co/"
+description: "Self-hosted / cloud notification infrastructure for developers."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Nodejs
 tags:
   - Communication - Custom Communication Systems
-source_code_url: https://github.com/novuhq/novu/
+source_code_url: "https://github.com/novuhq/novu/"
 stargazers_count: 31877
 updated_at: '2024-02-22'
 archived: false

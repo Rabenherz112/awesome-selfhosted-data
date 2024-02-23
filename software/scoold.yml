@@ -1,6 +1,6 @@
-name: Scoold
-website_url: https://scoold.com
-description: Stack Overflow in a JAR. An enterprise-ready Q&A platform with full-text search, SAML, LDAP integration and social login support.
+name: "Scoold"
+website_url: "https://scoold.com"
+description: "Stack Overflow in a JAR. An enterprise-ready Q&A platform with full-text search, SAML, LDAP integration and social login support."
 licenses:
   - Apache-2.0
 platforms:
@@ -9,8 +9,8 @@ platforms:
   - K8S
 tags:
   - Communication - Social Networks and Forums
-source_code_url: https://github.com/Erudika/scoold
-demo_url: https://live.scoold.com
+source_code_url: "https://github.com/Erudika/scoold"
+demo_url: "https://live.scoold.com"
 stargazers_count: 801
 updated_at: '2024-02-21'
 archived: false

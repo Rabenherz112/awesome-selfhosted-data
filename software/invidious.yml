@@ -1,6 +1,6 @@
-name: Invidious
-website_url: https://github.com/iv-org/invidious
-description: Alternative YouTube front-end.
+name: "Invidious"
+website_url: "https://github.com/iv-org/invidious"
+description: "Alternative YouTube front-end."
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,8 +8,8 @@ platforms:
   - Crystal
 tags:
   - Media Streaming - Video Streaming
-source_code_url: https://github.com/iv-org/invidious
-demo_url: https://docs.invidious.io/instances/
+source_code_url: "https://github.com/iv-org/invidious"
+demo_url: "https://docs.invidious.io/instances/"
 depends_3rdparty: true
 stargazers_count: 14277
 updated_at: '2024-02-18'

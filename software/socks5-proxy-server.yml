@@ -1,13 +1,13 @@
-name: socks5-proxy-server
-website_url: https://github.com/nskondratev/socks5-proxy-server
-description: SOCKS5 proxy server with built-in authentication and Telegram-bot for user management and user statistics on data spent (handy when you pay per GB of data). It is dockerised and simple to install.
+name: "socks5-proxy-server"
+website_url: "https://github.com/nskondratev/socks5-proxy-server"
+description: "SOCKS5 proxy server with built-in authentication and Telegram-bot for user management and user statistics on data spent (handy when you pay per GB of data). It is dockerised and simple to install."
 licenses:
   - Apache-2.0
 platforms:
   - Docker
 tags:
   - Proxy
-source_code_url: https://github.com/nskondratev/socks5-proxy-server
+source_code_url: "https://github.com/nskondratev/socks5-proxy-server"
 stargazers_count: 75
 updated_at: '2024-01-02'
 archived: false

@@ -1,6 +1,6 @@
-name: Uptime Kuma
-website_url: https://github.com/louislam/uptime-kuma
-description: Self-hosted website monitoring tool like "Uptime Robot".
+name: "Uptime Kuma"
+website_url: "https://github.com/louislam/uptime-kuma"
+description: "Self-hosted website monitoring tool like "Uptime Robot"."
 licenses:
   - MIT
 platforms:
@@ -8,8 +8,8 @@ platforms:
   - Nodejs
 tags:
   - Status / Uptime pages
-source_code_url: https://github.com/louislam/uptime-kuma
-demo_url: https://demo.kuma.pet
+source_code_url: "https://github.com/louislam/uptime-kuma"
+demo_url: "https://demo.kuma.pet"
 stargazers_count: 46324
 updated_at: '2024-02-21'
 archived: false

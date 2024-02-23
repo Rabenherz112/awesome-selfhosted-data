@@ -1,13 +1,13 @@
-name: qpixel
-website_url: https://codidact.com/
-description: Q&A-based community knowledge-sharing software.
+name: "qpixel"
+website_url: "https://codidact.com/"
+description: "Q&A-based community knowledge-sharing software."
 licenses:
   - AGPL-3.0
 platforms:
   - Ruby
 tags:
   - Communication - Social Networks and Forums
-source_code_url: https://github.com/codidact/qpixel
+source_code_url: "https://github.com/codidact/qpixel"
 stargazers_count: 346
 updated_at: '2024-02-21'
 archived: false

@@ -1,13 +1,13 @@
-name: CKAN
-website_url: https://ckan.org
-description: CKAN is a tool for making open data websites.
+name: "CKAN"
+website_url: "https://ckan.org"
+description: "CKAN is a tool for making open data websites."
 licenses:
   - AGPL-3.0
 platforms:
   - Python
 tags:
   - Archiving and Digital Preservation (DP)
-source_code_url: https://github.com/ckan/ckan
+source_code_url: "https://github.com/ckan/ckan"
 stargazers_count: 4194
 updated_at: '2024-02-13'
 archived: false

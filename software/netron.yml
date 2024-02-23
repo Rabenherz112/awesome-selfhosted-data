@@ -1,6 +1,6 @@
-name: Netron
-website_url: https://netron.app/
-description: Visualizer for neural network and machine learning models.
+name: "Netron"
+website_url: "https://netron.app/"
+description: "Visualizer for neural network and machine learning models."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Nodejs
 tags:
   - Analytics
-source_code_url: https://github.com/lutzroeder/netron
+source_code_url: "https://github.com/lutzroeder/netron"
 stargazers_count: 25474
 updated_at: '2024-02-22'
 archived: false

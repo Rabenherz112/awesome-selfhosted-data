@@ -1,10 +1,10 @@
-name: PmWiki
-website_url: https://www.pmwiki.org
-description: Wiki-based system for collaborative creation and maintenance of websites.
+name: "PmWiki"
+website_url: "https://www.pmwiki.org"
+description: "Wiki-based system for collaborative creation and maintenance of websites."
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
   - Wikis
-source_code_url: https://www.pmwiki.org
+source_code_url: "https://www.pmwiki.org"

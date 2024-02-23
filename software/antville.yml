@@ -1,13 +1,13 @@
-name: Antville
-website_url: https://antville.org
-description: Free, open source project aimed at the development of a high performance, feature rich weblog hosting software.
+name: "Antville"
+website_url: "https://antville.org"
+description: "Free, open source project aimed at the development of a high performance, feature rich weblog hosting software."
 licenses:
   - Apache-2.0
 platforms:
   - Javascript
 tags:
   - Blogging Platforms
-source_code_url: https://github.com/antville/antville
+source_code_url: "https://github.com/antville/antville"
 stargazers_count: 73
 updated_at: '2024-02-20'
 archived: false

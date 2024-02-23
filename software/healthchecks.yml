@@ -1,13 +1,13 @@
-name: Healthchecks
-website_url: https://healthchecks.io/
-description: Django app which listens for pings and sends alerts when pings are late.
+name: "Healthchecks"
+website_url: "https://healthchecks.io/"
+description: "Django app which listens for pings and sends alerts when pings are late."
 licenses:
   - BSD-3-Clause
 platforms:
   - Python
 tags:
   - Automation
-source_code_url: https://github.com/healthchecks/healthchecks
+source_code_url: "https://github.com/healthchecks/healthchecks"
 stargazers_count: 7068
 updated_at: '2024-02-21'
 archived: false

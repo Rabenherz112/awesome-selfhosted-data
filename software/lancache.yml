@@ -1,6 +1,6 @@
-name: Lancache
-website_url: https://lancache.net
-description: LAN Party game caching made easy.
+name: "Lancache"
+website_url: "https://lancache.net"
+description: "LAN Party game caching made easy."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Shell
 tags:
   - Games - Administrative Utilities & Control Panels
-source_code_url: https://github.com/lancachenet/monolithic
+source_code_url: "https://github.com/lancachenet/monolithic"
 depends_3rdparty: true
 stargazers_count: 686
 updated_at: '2023-07-24'

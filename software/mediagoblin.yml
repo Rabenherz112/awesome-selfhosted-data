@@ -1,10 +1,10 @@
-name: Mediagoblin
-website_url: https://mediagoblin.org
-description: Free software media publishing platform that anyone can run (alternative to Flickr, YouTube, SoundCloud, etc).
+name: "Mediagoblin"
+website_url: "https://mediagoblin.org"
+description: "Free software media publishing platform that anyone can run (alternative to Flickr, YouTube, SoundCloud, etc)."
 licenses:
   - AGPL-3.0
 platforms:
   - Python
 tags:
   - Photo and Video Galleries
-source_code_url: https://git.savannah.gnu.org/cgit/mediagoblin.git/tree/
+source_code_url: "https://git.savannah.gnu.org/cgit/mediagoblin.git/tree/"

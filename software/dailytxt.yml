@@ -1,13 +1,13 @@
-name: DailyTxT
-website_url: https://github.com/PhiTux/DailyTxT
-description: Encrypted diary Web application to save your personal memories of each day. Includes a search function and encrypted file upload.
+name: "DailyTxT"
+website_url: "https://github.com/PhiTux/DailyTxT"
+description: "Encrypted diary Web application to save your personal memories of each day. Includes a search function and encrypted file upload."
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
   - Note-taking & Editors
-source_code_url: https://github.com/PhiTux/DailyTxT
+source_code_url: "https://github.com/PhiTux/DailyTxT"
 stargazers_count: 169
 updated_at: '2023-11-01'
 archived: false

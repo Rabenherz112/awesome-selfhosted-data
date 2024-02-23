@@ -1,13 +1,13 @@
-name: Genea.app
-website_url: https://www.genea.app/
-description: Genea is a privacy by design and open source tool anyone can use to author or edit their family tree. Data is stored in the GEDCOM format and all processing is done in the browser.
+name: "Genea.app"
+website_url: "https://www.genea.app/"
+description: "Genea is a privacy by design and open source tool anyone can use to author or edit their family tree. Data is stored in the GEDCOM format and all processing is done in the browser."
 licenses:
   - MIT
 platforms:
   - Javascript
 tags:
   - Genealogy
-source_code_url: https://github.com/genea-app/genea-app
+source_code_url: "https://github.com/genea-app/genea-app"
 stargazers_count: 157
 updated_at: '2022-03-23'
 archived: false

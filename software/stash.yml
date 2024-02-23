@@ -1,6 +1,6 @@
-name: Stash
-website_url: https://stashapp.cc
-description: A web-based library organizer and player for your adult media stash, with auto-tagging and metadata scraping support.
+name: "Stash"
+website_url: "https://stashapp.cc"
+description: "A web-based library organizer and player for your adult media stash, with auto-tagging and metadata scraping support."
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Go
 tags:
   - Media Streaming - Multimedia Streaming
-source_code_url: https://github.com/stashapp/stash
+source_code_url: "https://github.com/stashapp/stash"
 stargazers_count: 7313
 updated_at: '2024-02-22'
 archived: false

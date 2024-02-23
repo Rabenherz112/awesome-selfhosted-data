@@ -1,14 +1,14 @@
-name: Nextcloud Memories
-website_url: https://memories.gallery/
-description: Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
+name: "Nextcloud Memories"
+website_url: "https://memories.gallery/"
+description: "Fast, modern and advanced photo management suite. Runs as a Nextcloud app."
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
 tags:
   - Photo and Video Galleries
-source_code_url: https://github.com/pulsejet/memories
-demo_url: https://demo.memories.gallery/apps/memories/
+source_code_url: "https://github.com/pulsejet/memories"
+demo_url: "https://demo.memories.gallery/apps/memories/"
 stargazers_count: 1966
 updated_at: '2024-02-21'
 archived: false

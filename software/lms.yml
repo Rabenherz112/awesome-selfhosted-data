@@ -1,6 +1,6 @@
-name: LMS
-website_url: https://github.com/epoupon/lms
-description: Access your self-hosted music using a web interface.
+name: "LMS"
+website_url: "https://github.com/epoupon/lms"
+description: "Access your self-hosted music using a web interface."
 licenses:
   - GPL-3.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - C++
 tags:
   - Media Streaming - Audio Streaming
-source_code_url: https://github.com/epoupon/lms
+source_code_url: "https://github.com/epoupon/lms"
 stargazers_count: 932
 updated_at: '2024-02-05'
 archived: false

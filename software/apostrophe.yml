@@ -1,14 +1,14 @@
-name: Apostrophe
-website_url: https://apostrophecms.com/
-description: CMS with a focus on extensible in-context editing tools.
+name: "Apostrophe"
+website_url: "https://apostrophecms.com/"
+description: "CMS with a focus on extensible in-context editing tools."
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
   - Content Management Systems (CMS)
-source_code_url: https://github.com/apostrophecms/apostrophe
-demo_url: https://apostrophecms.com/demo
+source_code_url: "https://github.com/apostrophecms/apostrophe"
+demo_url: "https://apostrophecms.com/demo"
 stargazers_count: 4225
 updated_at: '2024-02-22'
 archived: false

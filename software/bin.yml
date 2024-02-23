@@ -1,6 +1,6 @@
-name: bin
-website_url: https://github.com/w4/bin
-description: A paste bin that's actually minimalist.
+name: "bin"
+website_url: "https://github.com/w4/bin"
+description: "A paste bin that's actually minimalist."
 licenses:
   - WTFPL
   - 0BSD
@@ -8,7 +8,7 @@ platforms:
   - Rust
 tags:
   - Pastebins
-source_code_url: https://github.com/w4/bin
+source_code_url: "https://github.com/w4/bin"
 stargazers_count: 332
 updated_at: '2024-01-03'
 archived: false

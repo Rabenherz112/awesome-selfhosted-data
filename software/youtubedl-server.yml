@@ -1,6 +1,6 @@
-name: YoutubeDL-Server
-website_url: https://github.com/nbr23/youtube-dl-server
-description: Web and REST interface for downloading videos onto a server.
+name: "YoutubeDL-Server"
+website_url: "https://github.com/nbr23/youtube-dl-server"
+description: "Web and REST interface for downloading videos onto a server."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Automation
-source_code_url: https://github.com/nbr23/youtube-dl-server
+source_code_url: "https://github.com/nbr23/youtube-dl-server"
 stargazers_count: 191
 updated_at: '2024-02-22'
 archived: false

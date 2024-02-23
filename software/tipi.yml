@@ -1,13 +1,13 @@
-name: Tipi
-website_url: https://runtipi.io/
-description: Homeserver manager. One command setup, one click installs for your favorites self-hosted apps.
+name: "Tipi"
+website_url: "https://runtipi.io/"
+description: "Homeserver manager. One command setup, one click installs for your favorites self-hosted apps."
 licenses:
   - GPL-3.0
 platforms:
   - Shell
 tags:
   - Self-hosting Solutions
-source_code_url: https://github.com/meienberger/runtipi
+source_code_url: "https://github.com/meienberger/runtipi"
 stargazers_count: 6312
 updated_at: '2024-02-19'
 archived: false

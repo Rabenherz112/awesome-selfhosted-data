@@ -1,10 +1,10 @@
-name: yarn.social
-website_url: https://yarn.social
-description: Self-Hosted, Twitter™-like Decentralised micro-logging platform. No ads, no tracking, your content, your data.
+name: "yarn.social"
+website_url: "https://yarn.social"
+description: "Self-Hosted, Twitter™-like Decentralised micro-logging platform. No ads, no tracking, your content, your data."
 licenses:
   - MIT
 platforms:
   - Go
 tags:
   - Communication - Social Networks and Forums
-source_code_url: https://git.mills.io/yarnsocial/yarn
+source_code_url: "https://git.mills.io/yarnsocial/yarn"

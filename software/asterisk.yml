@@ -1,6 +1,6 @@
-name: Asterisk
-website_url: https://www.asterisk.org/
-description: Easy to use but advanced IP PBX system, VoIP gateway and conference server.
+name: "Asterisk"
+website_url: "https://www.asterisk.org/"
+description: "Easy to use but advanced IP PBX system, VoIP gateway and conference server."
 licenses:
   - GPL-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - deb
 tags:
   - Communication - SIP
-source_code_url: https://github.com/asterisk/asterisk
+source_code_url: "https://github.com/asterisk/asterisk"
 stargazers_count: 1817
 updated_at: '2024-02-20'
 archived: false

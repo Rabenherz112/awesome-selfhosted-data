@@ -1,14 +1,14 @@
-name: Payload CMS
-website_url: https://payloadcms.com/
-description: Developer-first headless CMS and application framework.
+name: "Payload CMS"
+website_url: "https://payloadcms.com/"
+description: "Developer-first headless CMS and application framework."
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
   - Content Management Systems (CMS)
-source_code_url: https://github.com/payloadcms/payload
-demo_url: https://demo.payloadcms.com
+source_code_url: "https://github.com/payloadcms/payload"
+demo_url: "https://demo.payloadcms.com"
 stargazers_count: 17718
 updated_at: '2024-02-21'
 archived: false

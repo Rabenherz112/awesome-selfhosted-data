@@ -1,14 +1,14 @@
-name: Easy!Appointments
-website_url: https://easyappointments.org/
-description: A highly customizable web application that allows your customers to book appointments with you via the web.
+name: "Easy!Appointments"
+website_url: "https://easyappointments.org/"
+description: "A highly customizable web application that allows your customers to book appointments with you via the web."
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
   - Booking and Scheduling
-source_code_url: https://github.com/alextselegidis/easyappointments
-demo_url: https://demo.easyappointments.org/
+source_code_url: "https://github.com/alextselegidis/easyappointments"
+demo_url: "https://demo.easyappointments.org/"
 stargazers_count: 2989
 updated_at: '2023-12-04'
 archived: false

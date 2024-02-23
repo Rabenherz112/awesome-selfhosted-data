@@ -1,6 +1,6 @@
-name: Kill Bill
-website_url: https://killbill.io/
-description: Open-Source Subscription Billing & Payments Platform. Have access to real-time analytics and financial reports.
+name: "Kill Bill"
+website_url: "https://killbill.io/"
+description: "Open-Source Subscription Billing & Payments Platform. Have access to real-time analytics and financial reports."
 licenses:
   - Apache-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Money, Budgeting & Management
-source_code_url: https://github.com/killbill/killbill
+source_code_url: "https://github.com/killbill/killbill"
 stargazers_count: 4302
 updated_at: '2024-02-21'
 archived: false

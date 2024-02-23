@@ -1,14 +1,14 @@
-name: Open-Meteo
-website_url: https://open-meteo.com/
-description: Open-source weather API with open-data forecasts, historical and climate data from all major national weather services.
+name: "Open-Meteo"
+website_url: "https://open-meteo.com/"
+description: "Open-source weather API with open-data forecasts, historical and climate data from all major national weather services."
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
   - Miscellaneous
-source_code_url: https://github.com/open-meteo/open-meteo
-demo_url: https://open-meteo.com/en/docs
+source_code_url: "https://github.com/open-meteo/open-meteo"
+demo_url: "https://open-meteo.com/en/docs"
 stargazers_count: 1741
 updated_at: '2024-02-22'
 archived: false

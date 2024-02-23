@@ -1,6 +1,6 @@
-name: Octobox
-website_url: https://octobox.io/
-description: Take back control of your GitHub Notifications.
+name: "Octobox"
+website_url: "https://octobox.io/"
+description: "Take back control of your GitHub Notifications."
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Software Development - Project Management
-source_code_url: https://github.com/octobox/octobox
+source_code_url: "https://github.com/octobox/octobox"
 depends_3rdparty: true
 stargazers_count: 4292
 updated_at: '2024-02-22'

@@ -1,14 +1,14 @@
-name: Discourse
-website_url: https://www.discourse.org/
-description: Advanced forum / community solution based on Ruby and JS.
+name: "Discourse"
+website_url: "https://www.discourse.org/"
+description: "Advanced forum / community solution based on Ruby and JS."
 licenses:
   - GPL-2.0
 platforms:
   - Docker
 tags:
   - Communication - Social Networks and Forums
-source_code_url: https://github.com/discourse/discourse
-demo_url: https://try.discourse.org/
+source_code_url: "https://github.com/discourse/discourse"
+demo_url: "https://try.discourse.org/"
 stargazers_count: 39870
 updated_at: '2024-02-22'
 archived: false

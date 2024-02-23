@@ -1,13 +1,13 @@
-name: Publify
-website_url: https://publify.github.io/
-description: Simple but full featured web publishing software.
+name: "Publify"
+website_url: "https://publify.github.io/"
+description: "Simple but full featured web publishing software."
 licenses:
   - MIT
 platforms:
   - Ruby
 tags:
   - Content Management Systems (CMS)
-source_code_url: https://github.com/publify/publify
+source_code_url: "https://github.com/publify/publify"
 stargazers_count: 1812
 updated_at: '2024-01-15'
 archived: false

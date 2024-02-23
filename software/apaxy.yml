@@ -1,13 +1,13 @@
-name: Apaxy
-website_url: https://oupala.github.io/apaxy/
-description: Theme built to enhance the experience of browsing web directories, using the mod_autoindex Apache module and some CSS to override the default style of a directory listing.
+name: "Apaxy"
+website_url: "https://oupala.github.io/apaxy/"
+description: "Theme built to enhance the experience of browsing web directories, using the mod_autoindex Apache module and some CSS to override the default style of a directory listing."
 licenses:
   - GPL-3.0
 platforms:
   - Javascript
 tags:
   - File Transfer - Web-based File Managers
-source_code_url: https://github.com/oupala/apaxy
+source_code_url: "https://github.com/oupala/apaxy"
 stargazers_count: 1839
 updated_at: '2023-01-11'
 archived: false

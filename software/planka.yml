@@ -1,6 +1,6 @@
-name: Planka
-website_url: https://planka.app/
-description: Realtime kanban board for workgroups (alternative to Trello).
+name: "Planka"
+website_url: "https://planka.app/"
+description: "Realtime kanban board for workgroups (alternative to Trello)."
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,8 +9,8 @@ platforms:
   - K8S
 tags:
   - Task Management & To-do Lists
-source_code_url: https://github.com/plankanban/planka
-demo_url: https://plankanban.github.io/planka/#/
+source_code_url: "https://github.com/plankanban/planka"
+demo_url: "https://plankanban.github.io/planka/#/"
 stargazers_count: 3726
 updated_at: '2024-02-14'
 archived: false

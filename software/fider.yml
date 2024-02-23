@@ -1,14 +1,14 @@
-name: Fider
-website_url: https://fider.io
-description: Open platform to collect and prioritize feedback (alternative to UserVoice).
+name: "Fider"
+website_url: "https://fider.io"
+description: "Open platform to collect and prioritize feedback (alternative to UserVoice)."
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
   - Polls and Events
-source_code_url: https://github.com/getfider/fider
-demo_url: https://demo.fider.io
+source_code_url: "https://github.com/getfider/fider"
+demo_url: "https://demo.fider.io"
 stargazers_count: 2564
 updated_at: '2023-07-16'
 archived: false

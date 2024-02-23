@@ -1,13 +1,13 @@
-name: OpenCart
-website_url: https://www.opencart.com
-description: Free open source shopping cart solution.
+name: "OpenCart"
+website_url: "https://www.opencart.com"
+description: "Free open source shopping cart solution."
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
   - E-commerce
-source_code_url: https://github.com/opencart/opencart
+source_code_url: "https://github.com/opencart/opencart"
 stargazers_count: 7171
 updated_at: '2024-02-22'
 archived: false

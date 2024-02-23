@@ -1,13 +1,13 @@
-name: Tasks.md
-website_url: https://github.com/BaldissaraMatheus/Tasks.md
-description: A self-hosted, file based task management board that supports Markdown syntax.
+name: "Tasks.md"
+website_url: "https://github.com/BaldissaraMatheus/Tasks.md"
+description: "A self-hosted, file based task management board that supports Markdown syntax."
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
   - Task Management & To-do Lists
-source_code_url: https://github.com/BaldissaraMatheus/Tasks.md
+source_code_url: "https://github.com/BaldissaraMatheus/Tasks.md"
 stargazers_count: 341
 updated_at: '2024-02-14'
 archived: false

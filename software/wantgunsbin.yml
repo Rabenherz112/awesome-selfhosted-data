@@ -1,6 +1,6 @@
-name: wantguns/bin
-website_url: https://github.com/wantguns/bin
-description: Minimal pastebin for both textual and binary files shipped in a single statically linked binary.
+name: "wantguns/bin"
+website_url: "https://github.com/wantguns/bin"
+description: "Minimal pastebin for both textual and binary files shipped in a single statically linked binary."
 licenses:
   - GPL-3.0
 platforms:
@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - Pastebins
-source_code_url: https://github.com/wantguns/bin
-demo_url: https://basedbin.fly.dev
+source_code_url: "https://github.com/wantguns/bin"
+demo_url: "https://basedbin.fly.dev"
 stargazers_count: 169
 updated_at: '2023-10-14'
 archived: false

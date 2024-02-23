@@ -1,6 +1,6 @@
-name: The Battle for Wesnoth
-website_url: https://github.com/wesnoth/wesnoth
-description: The Battle for Wesnoth is an Open Source, turn-based tactical strategy game with a high fantasy theme, featuring both singleplayer and online/hotseat multiplayer combat.
+name: "The Battle for Wesnoth"
+website_url: "https://github.com/wesnoth/wesnoth"
+description: "The Battle for Wesnoth is an Open Source, turn-based tactical strategy game with a high fantasy theme, featuring both singleplayer and online/hotseat multiplayer combat."
 licenses:
   - GPL-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - deb
 tags:
   - Games
-source_code_url: https://github.com/wesnoth/wesnoth
+source_code_url: "https://github.com/wesnoth/wesnoth"
 stargazers_count: 5066
 updated_at: '2024-02-22'
 archived: false

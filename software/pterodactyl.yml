@@ -1,13 +1,13 @@
-name: Pterodactyl
-website_url: https://pterodactyl.io/
-description: Management panel for game servers, with an intuitive UI for end users.
+name: "Pterodactyl"
+website_url: "https://pterodactyl.io/"
+description: "Management panel for game servers, with an intuitive UI for end users."
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
   - Games - Administrative Utilities & Control Panels
-source_code_url: https://github.com/pterodactyl/panel
+source_code_url: "https://github.com/pterodactyl/panel"
 stargazers_count: 5818
 updated_at: '2023-12-30'
 archived: false

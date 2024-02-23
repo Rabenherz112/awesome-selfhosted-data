@@ -1,6 +1,6 @@
-name: Warpgate
-website_url: https://github.com/warp-tech/warpgate
-description: Smart SSH and HTTPS bastion that works with any SSH client.
+name: "Warpgate"
+website_url: "https://github.com/warp-tech/warpgate"
+description: "Smart SSH and HTTPS bastion that works with any SSH client."
 licenses:
   - Apache-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Remote Access
-source_code_url: https://github.com/warp-tech/warpgate
+source_code_url: "https://github.com/warp-tech/warpgate"
 stargazers_count: 3196
 updated_at: '2024-02-20'
 archived: false

@@ -1,6 +1,6 @@
-name: Isso
-website_url: https://isso-comments.de/
-description: Lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus.
+name: "Isso"
+website_url: "https://isso-comments.de/"
+description: "Lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Communication - Social Networks and Forums
-source_code_url: https://github.com/posativ/isso
+source_code_url: "https://github.com/posativ/isso"
 stargazers_count: 4939
 updated_at: '2024-01-27'
 archived: false

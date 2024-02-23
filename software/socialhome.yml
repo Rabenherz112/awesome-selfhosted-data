@@ -1,6 +1,6 @@
-name: Socialhome
-website_url: https://socialhome.network
-description: Federated and decentralized profile builder and social network engine.
+name: "Socialhome"
+website_url: "https://socialhome.network"
+description: "Federated and decentralized profile builder and social network engine."
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,8 +8,8 @@ platforms:
   - Python
 tags:
   - Communication - Social Networks and Forums
-source_code_url: https://github.com/jaywink/socialhome
-demo_url: https://socialhome.network/
+source_code_url: "https://github.com/jaywink/socialhome"
+demo_url: "https://socialhome.network/"
 stargazers_count: 352
 updated_at: '2024-02-19'
 archived: false

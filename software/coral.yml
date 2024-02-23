@@ -1,6 +1,6 @@
-name: Coral
-website_url: https://coralproject.net/
-description: A better commenting experience from Vox Media.
+name: "Coral"
+website_url: "https://coralproject.net/"
+description: "A better commenting experience from Vox Media."
 licenses:
   - Apache-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Nodejs
 tags:
   - Communication - Social Networks and Forums
-source_code_url: https://github.com/coralproject/talk
+source_code_url: "https://github.com/coralproject/talk"
 stargazers_count: 1863
 updated_at: '2024-02-20'
 archived: false

@@ -1,6 +1,6 @@
-name: Wakapi
-website_url: https://wakapi.dev/
-description: Tracking tool for coding statistics, compatible with WakaTime.
+name: "Wakapi"
+website_url: "https://wakapi.dev/"
+description: "Tracking tool for coding statistics, compatible with WakaTime."
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Software Development - IDE & Tools
-source_code_url: https://github.com/muety/wakapi
+source_code_url: "https://github.com/muety/wakapi"
 stargazers_count: 2079
 updated_at: '2024-02-18'
 archived: false

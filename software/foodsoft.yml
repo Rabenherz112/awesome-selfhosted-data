@@ -1,6 +1,6 @@
-name: Foodsoft
-website_url: https://foodcoops.net/
-description: Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling).
+name: "Foodsoft"
+website_url: "https://foodcoops.net/"
+description: "Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling)."
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Ruby
 tags:
   - Community-Supported Agriculture (CSA)
-source_code_url: https://github.com/foodcoops/foodsoft
+source_code_url: "https://github.com/foodcoops/foodsoft"
 stargazers_count: 304
 updated_at: '2024-02-15'
 archived: false

@@ -1,11 +1,11 @@
-name: FileRun
-website_url: https://www.filerun.com/
-description: Complete solution for your files with integration with Google and Office.
+name: "FileRun"
+website_url: "https://www.filerun.com/"
+description: "Complete solution for your files with integration with Google and Office."
 licenses:
   - ⊘ Proprietary
 platforms:
   - PHP
 tags:
   - File Transfer & Synchronization
-source_code_url: https://www.filerun.com/
-demo_url: https://www.filerun.com/demo
+source_code_url: "https://www.filerun.com/"
+demo_url: "https://www.filerun.com/demo"

@@ -1,6 +1,6 @@
-name: Jina
-website_url: https://github.com/jina-ai/jina/
-description: Cloud-native neural search framework for any kind of data.
+name: "Jina"
+website_url: "https://github.com/jina-ai/jina/"
+description: "Cloud-native neural search framework for any kind of data."
 licenses:
   - Apache-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Search Engines
-source_code_url: https://github.com/jina-ai/jina/
+source_code_url: "https://github.com/jina-ai/jina/"
 stargazers_count: 19690
 updated_at: '2024-02-16'
 archived: false

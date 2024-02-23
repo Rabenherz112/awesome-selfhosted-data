@@ -1,13 +1,13 @@
-name: SabreDAV
-website_url: https://sabre.io/
-description: Open source CardDAV, CalDAV, and WebDAV framework and server.
+name: "SabreDAV"
+website_url: "https://sabre.io/"
+description: "Open source CardDAV, CalDAV, and WebDAV framework and server."
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
   - Calendar & Contacts
-source_code_url: https://github.com/sabre-io/dav
+source_code_url: "https://github.com/sabre-io/dav"
 stargazers_count: 1451
 updated_at: '2024-02-02'
 archived: false

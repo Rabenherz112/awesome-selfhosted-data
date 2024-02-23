@@ -1,13 +1,13 @@
-name: Davis
-website_url: https://github.com/tchapi/davis
-description: A simple, dockerizable and fully translatable admin interface for sabre/dav based on Symfony 5 and Bootstrap 4, largely inspired by Baïkal.
+name: "Davis"
+website_url: "https://github.com/tchapi/davis"
+description: "A simple, dockerizable and fully translatable admin interface for sabre/dav based on Symfony 5 and Bootstrap 4, largely inspired by Baïkal."
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
   - Calendar & Contacts
-source_code_url: https://github.com/tchapi/davis
+source_code_url: "https://github.com/tchapi/davis"
 stargazers_count: 282
 updated_at: '2024-02-14'
 archived: false

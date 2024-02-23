@@ -1,13 +1,13 @@
-name: PushBits
-website_url: https://github.com/pushbits/server
-description: Self-hosted notification server for relaying push notifications via Matrix, similar to PushBullet and Gotify.
+name: "PushBits"
+website_url: "https://github.com/pushbits/server"
+description: "Self-hosted notification server for relaying push notifications via Matrix, similar to PushBullet and Gotify."
 licenses:
   - ISC
 platforms:
   - Go
 tags:
   - Communication - Custom Communication Systems
-source_code_url: https://github.com/pushbits/server
+source_code_url: "https://github.com/pushbits/server"
 stargazers_count: 280
 updated_at: '2023-12-21'
 archived: false

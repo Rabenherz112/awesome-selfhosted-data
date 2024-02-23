@@ -1,6 +1,6 @@
-name: EDA
-website_url: https://eda.jortilles.com/en/jortilles-english/
-description: Web application for data analysis and visualization.
+name: "EDA"
+website_url: "https://eda.jortilles.com/en/jortilles-english/"
+description: "Web application for data analysis and visualization."
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Analytics
-source_code_url: https://github.com/jortilles/EDA
+source_code_url: "https://github.com/jortilles/EDA"
 stargazers_count: 92
 updated_at: '2024-02-19'
 archived: false

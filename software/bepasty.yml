@@ -1,6 +1,6 @@
-name: bepasty
-website_url: https://bepasty-server.readthedocs.io/en/latest/
-description: A pastebin for all kinds of files.
+name: "bepasty"
+website_url: "https://bepasty-server.readthedocs.io/en/latest/"
+description: "A pastebin for all kinds of files."
 licenses:
   - BSD-2-Clause
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - deb
 tags:
   - Pastebins
-source_code_url: https://github.com/bepasty/bepasty-server
+source_code_url: "https://github.com/bepasty/bepasty-server"
 stargazers_count: 171
 updated_at: '2024-01-26'
 archived: false

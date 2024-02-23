@@ -1,13 +1,13 @@
-name: WooCommerce
-website_url: https://woocommerce.com/
-description: WordPress based e-commerce solution.
+name: "WooCommerce"
+website_url: "https://woocommerce.com/"
+description: "WordPress based e-commerce solution."
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
   - E-commerce
-source_code_url: https://github.com/woocommerce/woocommerce
+source_code_url: "https://github.com/woocommerce/woocommerce"
 stargazers_count: 8964
 updated_at: '2024-02-22'
 archived: false

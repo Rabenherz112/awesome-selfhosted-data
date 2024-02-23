@@ -1,6 +1,6 @@
-name: Radicale
-website_url: https://radicale.org/
-description: Simple calendar and contact server with extremely low administrative overhead.
+name: "Radicale"
+website_url: "https://radicale.org/"
+description: "Simple calendar and contact server with extremely low administrative overhead."
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - deb
 tags:
   - Calendar & Contacts
-source_code_url: https://github.com/Kozea/Radicale
+source_code_url: "https://github.com/Kozea/Radicale"
 stargazers_count: 3006
 updated_at: '2024-02-08'
 archived: false

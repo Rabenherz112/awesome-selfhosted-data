@@ -1,6 +1,6 @@
-name: Transmission
-website_url: https://transmissionbt.com/
-description: Fast, easy, free Bittorrent client.
+name: "Transmission"
+website_url: "https://transmissionbt.com/"
+description: "Fast, easy, free Bittorrent client."
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - deb
 tags:
   - File Transfer - Peer-to-peer Filesharing
-source_code_url: https://github.com/transmission/transmission
+source_code_url: "https://github.com/transmission/transmission"
 stargazers_count: 11128
 updated_at: '2024-02-19'
 archived: false

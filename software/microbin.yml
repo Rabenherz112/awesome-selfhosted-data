@@ -1,6 +1,6 @@
-name: MicroBin
-website_url: https://github.com/szabodanika/microbin
-description: Simple, performant, configurable, entirely self-contained pastebin and URL shortener.
+name: "MicroBin"
+website_url: "https://github.com/szabodanika/microbin"
+description: "Simple, performant, configurable, entirely self-contained pastebin and URL shortener."
 licenses:
   - BSD-3-Clause
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Pastebins
-source_code_url: https://github.com/szabodanika/microbin
+source_code_url: "https://github.com/szabodanika/microbin"
 stargazers_count: 2079
 updated_at: '2023-07-15'
 archived: false

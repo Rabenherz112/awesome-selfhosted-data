@@ -1,13 +1,13 @@
-name: Haraka
-website_url: https://haraka.github.io/
-description: High-performance, pluginable SMTP server written in Javascript.
+name: "Haraka"
+website_url: "https://haraka.github.io/"
+description: "High-performance, pluginable SMTP server written in Javascript."
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
   - Communication - Email - Mail Transfer Agents
-source_code_url: https://github.com/haraka/Haraka
+source_code_url: "https://github.com/haraka/Haraka"
 stargazers_count: 4740
 updated_at: '2024-02-08'
 archived: false

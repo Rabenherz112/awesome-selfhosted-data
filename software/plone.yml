@@ -1,6 +1,6 @@
-name: Plone
-website_url: https://plone.org/
-description: Powerful open-source CMS system.
+name: "Plone"
+website_url: "https://plone.org/"
+description: "Powerful open-source CMS system."
 licenses:
   - ZPL-2.0
 platforms:
@@ -8,4 +8,4 @@ platforms:
   - Docker
 tags:
   - Content Management Systems (CMS)
-source_code_url: https://github.com/plone
+source_code_url: "https://github.com/plone"

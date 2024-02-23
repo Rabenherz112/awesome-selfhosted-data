@@ -1,13 +1,13 @@
-name: Live Helper Chat
-website_url: https://livehelperchat.com/
-description: Live Support chat for your website.
+name: "Live Helper Chat"
+website_url: "https://livehelperchat.com/"
+description: "Live Support chat for your website."
 licenses:
   - Apache-2.0
 platforms:
   - PHP
 tags:
   - Communication - Custom Communication Systems
-source_code_url: https://github.com/LiveHelperChat/livehelperchat
+source_code_url: "https://github.com/LiveHelperChat/livehelperchat"
 stargazers_count: 1861
 updated_at: '2024-02-22'
 archived: false

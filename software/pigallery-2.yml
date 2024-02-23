@@ -1,6 +1,6 @@
-name: PiGallery 2
-website_url: https://bpatrik.github.io/pigallery2/
-description: A directory-first photo gallery website, with a rich UI, optimised for running on low resource servers.
+name: "PiGallery 2"
+website_url: "https://bpatrik.github.io/pigallery2/"
+description: "A directory-first photo gallery website, with a rich UI, optimised for running on low resource servers."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Nodejs
 tags:
   - Photo and Video Galleries
-source_code_url: https://github.com/bpatrik/pigallery2
+source_code_url: "https://github.com/bpatrik/pigallery2"
 stargazers_count: 1580
 updated_at: '2024-02-21'
 archived: false

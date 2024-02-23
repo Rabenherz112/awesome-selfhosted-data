@@ -1,6 +1,6 @@
-name: Convos
-website_url: https://convos.chat/
-description: Always online web IRC client.
+name: "Convos"
+website_url: "https://convos.chat/"
+description: "Always online web IRC client."
 licenses:
   - Artistic-2.0
 platforms:
@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - Communication - IRC
-source_code_url: https://github.com/convos-chat/convos
-demo_url: https://convos.chat/#instant-demo
+source_code_url: "https://github.com/convos-chat/convos"
+demo_url: "https://convos.chat/#instant-demo"
 stargazers_count: 998
 updated_at: '2024-01-24'
 archived: false

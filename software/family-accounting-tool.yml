@@ -1,13 +1,13 @@
-name: Family Accounting Tool
-website_url: https://github.com/nymanjens/facto
-description: Web-based finance management tool for partners with partially shared expenses.
+name: "Family Accounting Tool"
+website_url: "https://github.com/nymanjens/facto"
+description: "Web-based finance management tool for partners with partially shared expenses."
 licenses:
   - Apache-2.0
 platforms:
   - Scala
 tags:
   - Money, Budgeting & Management
-source_code_url: https://github.com/nymanjens/facto
+source_code_url: "https://github.com/nymanjens/facto"
 stargazers_count: 171
 updated_at: '2023-11-23'
 archived: false

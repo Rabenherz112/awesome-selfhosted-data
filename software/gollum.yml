@@ -1,13 +1,13 @@
-name: Gollum
-website_url: https://github.com/gollum/gollum
-description: Simple, Git-powered wiki with a sweet API and local frontend.
+name: "Gollum"
+website_url: "https://github.com/gollum/gollum"
+description: "Simple, Git-powered wiki with a sweet API and local frontend."
 licenses:
   - MIT
 platforms:
   - Ruby
 tags:
   - Wikis
-source_code_url: https://github.com/gollum/gollum
+source_code_url: "https://github.com/gollum/gollum"
 stargazers_count: 13485
 updated_at: '2024-01-31'
 archived: false

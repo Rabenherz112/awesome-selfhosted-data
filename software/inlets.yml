@@ -1,6 +1,6 @@
-name: inlets
-website_url: https://inlets.dev/
-description: Expose your local endpoints to the Internet - with a Kubernetes integration, Docker image and CLI available.
+name: "inlets"
+website_url: "https://inlets.dev/"
+description: "Expose your local endpoints to the Internet - with a Kubernetes integration, Docker image and CLI available."
 licenses:
   - ⊘ Proprietary
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Proxy
-source_code_url: https://github.com/inlets/inlets-pro
+source_code_url: "https://github.com/inlets/inlets-pro"
 stargazers_count: 516
 updated_at: '2024-01-29'
 archived: false

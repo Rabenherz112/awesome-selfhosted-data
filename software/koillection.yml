@@ -1,6 +1,6 @@
-name: Koillection
-website_url: https://koillection.github.io/
-description: Koillection is a service allowing users to manage any kind of collections.
+name: "Koillection"
+website_url: "https://koillection.github.io/"
+description: "Koillection is a service allowing users to manage any kind of collections."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - PHP
 tags:
   - Miscellaneous
-source_code_url: https://github.com/benjaminjonard/koillection
+source_code_url: "https://github.com/benjaminjonard/koillection"
 stargazers_count: 454
 updated_at: '2024-02-22'
 archived: false

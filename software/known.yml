@@ -1,13 +1,13 @@
-name: Known
-website_url: https://withknown.com/
-description: A collaborative social publishing platform.
+name: "Known"
+website_url: "https://withknown.com/"
+description: "A collaborative social publishing platform."
 licenses:
   - Apache-2.0
 platforms:
   - PHP
 tags:
   - Blogging Platforms
-source_code_url: https://github.com/idno/known
+source_code_url: "https://github.com/idno/known"
 stargazers_count: 1016
 updated_at: '2024-02-22'
 archived: false

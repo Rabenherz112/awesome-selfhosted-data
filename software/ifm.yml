@@ -1,13 +1,13 @@
-name: IFM
-website_url: https://github.com/misterunknown/ifm
-description: Single script file manager.
+name: "IFM"
+website_url: "https://github.com/misterunknown/ifm"
+description: "Single script file manager."
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
   - File Transfer - Web-based File Managers
-source_code_url: https://github.com/misterunknown/ifm
+source_code_url: "https://github.com/misterunknown/ifm"
 stargazers_count: 323
 updated_at: '2024-01-26'
 archived: false

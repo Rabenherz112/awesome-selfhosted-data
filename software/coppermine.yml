@@ -1,14 +1,14 @@
-name: Coppermine
-website_url: https://coppermine-gallery.net/
-description: Multilingual photo gallery that integrates with various bulletin boards. Includes upload approval and password protected albums.
+name: "Coppermine"
+website_url: "https://coppermine-gallery.net/"
+description: "Multilingual photo gallery that integrates with various bulletin boards. Includes upload approval and password protected albums."
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
   - Photo and Video Galleries
-source_code_url: https://github.com/coppermine-gallery/cpg1.6.x
-demo_url: https://coppermine-gallery.net/demo/cpg15x/
+source_code_url: "https://github.com/coppermine-gallery/cpg1.6.x"
+demo_url: "https://coppermine-gallery.net/demo/cpg15x/"
 stargazers_count: 64
 updated_at: '2024-02-04'
 archived: false

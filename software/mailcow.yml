@@ -1,6 +1,6 @@
-name: Mailcow
-website_url: https://mailcow.email/
-description: Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration.
+name: "Mailcow"
+website_url: "https://mailcow.email/"
+description: "Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration."
 licenses:
   - GPL-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - PHP
 tags:
   - Communication - Email - Complete Solutions
-source_code_url: https://github.com/mailcow/mailcow-dockerized
+source_code_url: "https://github.com/mailcow/mailcow-dockerized"
 stargazers_count: 7636
 updated_at: '2024-02-15'
 archived: false

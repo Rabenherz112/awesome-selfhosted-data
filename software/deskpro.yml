@@ -1,10 +1,10 @@
-name: Deskpro
-website_url: https://www.deskpro.com/
-description: On-Premise help desk software that includes email, chat, voice & help centre publishing. Full visible source code and API.
+name: "Deskpro"
+website_url: "https://www.deskpro.com/"
+description: "On-Premise help desk software that includes email, chat, voice & help centre publishing. Full visible source code and API."
 licenses:
   - ⊘ Proprietary
 platforms:
   - Unknown
 tags:
   - Ticketing
-source_code_url: https://www.deskpro.com/
+source_code_url: "https://www.deskpro.com/"

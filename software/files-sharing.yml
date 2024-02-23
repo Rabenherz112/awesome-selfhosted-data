@@ -1,6 +1,6 @@
-name: Files Sharing
-website_url: https://github.com/axeloz/filesharing
-description: Open Source and self-hosted files sharing application based on unique and temporary links.
+name: "Files Sharing"
+website_url: "https://github.com/axeloz/filesharing"
+description: "Open Source and self-hosted files sharing application based on unique and temporary links."
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
-source_code_url: https://github.com/axeloz/filesharing
+source_code_url: "https://github.com/axeloz/filesharing"
 stargazers_count: 151
 updated_at: '2024-01-11'
 archived: false

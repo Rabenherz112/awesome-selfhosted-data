@@ -1,10 +1,10 @@
-name: Bamboo
-website_url: https://www.atlassian.com/software/bamboo
-description: Continuous integration server.
+name: "Bamboo"
+website_url: "https://www.atlassian.com/software/bamboo"
+description: "Continuous integration server."
 licenses:
   - ⊘ Proprietary
 platforms:
   - Java
 tags:
   - Software Development - Testing
-source_code_url: https://www.atlassian.com/software/bamboo
+source_code_url: "https://www.atlassian.com/software/bamboo"

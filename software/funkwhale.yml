@@ -1,6 +1,6 @@
-name: Funkwhale
-website_url: https://dev.funkwhale.audio/funkwhale
-description: Modern, web-based, convivial, multi-user and free music server.
+name: "Funkwhale"
+website_url: "https://dev.funkwhale.audio/funkwhale"
+description: "Modern, web-based, convivial, multi-user and free music server."
 licenses:
   - BSD-3-Clause
 platforms:
@@ -8,4 +8,4 @@ platforms:
   - Django
 tags:
   - Media Streaming - Audio Streaming
-source_code_url: https://dev.funkwhale.audio/funkwhale
+source_code_url: "https://dev.funkwhale.audio/funkwhale"

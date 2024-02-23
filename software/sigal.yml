@@ -1,13 +1,13 @@
-name: sigal
-website_url: https://github.com/saimn/sigal
-description: Yet another simple static gallery generator.
+name: "sigal"
+website_url: "https://github.com/saimn/sigal"
+description: "Yet another simple static gallery generator."
 licenses:
   - MIT
 platforms:
   - Python
 tags:
   - Photo and Video Galleries
-source_code_url: https://github.com/saimn/sigal
+source_code_url: "https://github.com/saimn/sigal"
 stargazers_count: 846
 updated_at: '2024-01-18'
 archived: false

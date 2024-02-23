@@ -1,13 +1,13 @@
-name: OpenOlitor
-website_url: https://openolitor.org/
-description: Administration platform for Community Supported Agriculture groups.
+name: "OpenOlitor"
+website_url: "https://openolitor.org/"
+description: "Administration platform for Community Supported Agriculture groups."
 licenses:
   - AGPL-3.0
 platforms:
   - Scala
 tags:
   - Community-Supported Agriculture (CSA)
-source_code_url: https://github.com/OpenOlitor/openolitor-server
+source_code_url: "https://github.com/OpenOlitor/openolitor-server"
 stargazers_count: 18
 updated_at: '2024-01-18'
 archived: false

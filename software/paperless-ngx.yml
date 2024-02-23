@@ -1,6 +1,6 @@
-name: Paperless-ngx
-website_url: https://docs.paperless-ngx.com/
-description: Scan, index, and archive all of your paper documents with an improved interface (fork of Paperless).
+name: "Paperless-ngx"
+website_url: "https://docs.paperless-ngx.com/"
+description: "Scan, index, and archive all of your paper documents with an improved interface (fork of Paperless)."
 licenses:
   - GPL-3.0
 platforms:
@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - Document Management
-source_code_url: https://github.com/paperless-ngx/paperless-ngx
-demo_url: https://demo.paperless-ngx.com/
+source_code_url: "https://github.com/paperless-ngx/paperless-ngx"
+demo_url: "https://demo.paperless-ngx.com/"
 stargazers_count: 15607
 updated_at: '2024-02-22'
 archived: false

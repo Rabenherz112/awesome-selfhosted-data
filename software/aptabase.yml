@@ -1,13 +1,13 @@
-name: Aptabase
-website_url: https://aptabase.com/
-description: Open source, privacy first and simple analytics for mobile and desktop apps.
+name: "Aptabase"
+website_url: "https://aptabase.com/"
+description: "Open source, privacy first and simple analytics for mobile and desktop apps."
 licenses:
   - AGPL-3.0
 platforms:
   - Docker
 tags:
   - Analytics
-source_code_url: https://github.com/aptabase/aptabase
+source_code_url: "https://github.com/aptabase/aptabase"
 stargazers_count: 544
 updated_at: '2024-02-14'
 archived: false

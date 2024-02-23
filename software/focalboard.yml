@@ -1,6 +1,6 @@
-name: Focalboard
-website_url: https://www.focalboard.com/
-description: Define, organize, track and manage work across individuals and teams (alternative to Trello, Notion, and Asana).
+name: "Focalboard"
+website_url: "https://www.focalboard.com/"
+description: "Define, organize, track and manage work across individuals and teams (alternative to Trello, Notion, and Asana)."
 licenses:
   - MIT
   - AGPL-3.0
@@ -11,7 +11,7 @@ platforms:
   - Docker
 tags:
   - Task Management & To-do Lists
-source_code_url: https://github.com/mattermost/focalboard
+source_code_url: "https://github.com/mattermost/focalboard"
 related_software_url: https://www.focalboard.com/download/personal-edition/desktop/
 stargazers_count: 18450
 updated_at: '2024-02-22'

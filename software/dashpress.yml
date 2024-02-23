@@ -1,6 +1,6 @@
-name: Dashpress
-website_url: https://github.com/dashpresshq/dashpress
-description: Generate fully functional admin apps in seconds from your database information, with a single command.
+name: "Dashpress"
+website_url: "https://github.com/dashpresshq/dashpress"
+description: "Generate fully functional admin apps in seconds from your database information, with a single command."
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - Software Development - Low Code
-source_code_url: https://github.com/dashpresshq/dashpress
-demo_url: https://demo.dashpress.io/auth
+source_code_url: "https://github.com/dashpresshq/dashpress"
+demo_url: "https://demo.dashpress.io/auth"
 stargazers_count: 638
 updated_at: '2024-02-20'
 archived: false

@@ -1,6 +1,6 @@
-name: EasyWI
-website_url: https://easy-wi.com
-description: Easy-Wi is a Web-interface that allows you to manage server daemons like gameservers. In addition it provides you with a CMS which includes a fully automated game- and voiceserver lending service.
+name: "EasyWI"
+website_url: "https://easy-wi.com"
+description: "Easy-Wi is a Web-interface that allows you to manage server daemons like gameservers. In addition it provides you with a CMS which includes a fully automated game- and voiceserver lending service."
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Shell
 tags:
   - Games - Administrative Utilities & Control Panels
-source_code_url: https://github.com/easy-wi/developer/
+source_code_url: "https://github.com/easy-wi/developer/"
 stargazers_count: 212
 updated_at: '2023-11-03'
 archived: false

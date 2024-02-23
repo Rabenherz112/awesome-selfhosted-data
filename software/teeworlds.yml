@@ -1,6 +1,6 @@
-name: Teeworlds
-website_url: https://www.teeworlds.com
-description: Open source 2D retro multiplayer shooter.
+name: "Teeworlds"
+website_url: "https://www.teeworlds.com"
+description: "Open source 2D retro multiplayer shooter."
 licenses:
   - Zlib
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - deb
 tags:
   - Games
-source_code_url: https://github.com/teeworlds/teeworlds
+source_code_url: "https://github.com/teeworlds/teeworlds"
 stargazers_count: 2255
 updated_at: '2023-06-29'
 archived: false

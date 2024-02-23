@@ -1,6 +1,6 @@
-name: GlitchTip
-website_url: https://glitchtip.com
-description: Open source error-tracking app. GlitchTip collects errors reported by your app.
+name: "GlitchTip"
+website_url: "https://glitchtip.com"
+description: "Open source error-tracking app. GlitchTip collects errors reported by your app."
 licenses:
   - MIT
 platforms:
@@ -9,4 +9,4 @@ platforms:
   - K8S
 tags:
   - Ticketing
-source_code_url: https://gitlab.com/glitchtip/glitchtip
+source_code_url: "https://gitlab.com/glitchtip/glitchtip"

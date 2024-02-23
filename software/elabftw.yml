@@ -1,14 +1,14 @@
-name: eLabFTW
-website_url: https://www.elabftw.net
-description: Online lab notebook for research labs. Store experiments, use a database to find reagents or protocols, use trusted timestamping to legally timestamp an experiment, export as pdf or zip archive, share with collaborators….
+name: "eLabFTW"
+website_url: "https://www.elabftw.net"
+description: "Online lab notebook for research labs. Store experiments, use a database to find reagents or protocols, use trusted timestamping to legally timestamp an experiment, export as pdf or zip archive, share with collaborators…."
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
 tags:
   - Content Management Systems (CMS)
-source_code_url: https://github.com/elabftw/elabftw
-demo_url: https://demo.elabftw.net
+source_code_url: "https://github.com/elabftw/elabftw"
+demo_url: "https://demo.elabftw.net"
 stargazers_count: 864
 updated_at: '2024-02-17'
 archived: false

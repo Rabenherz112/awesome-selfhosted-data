@@ -1,6 +1,6 @@
-name: frab
-website_url: https://frab.github.io/frab/
-description: Web-based conference planning and management system. It helps to collect submissions, to manage talks and speakers and to create a schedule.
+name: "frab"
+website_url: "https://frab.github.io/frab/"
+description: "Web-based conference planning and management system. It helps to collect submissions, to manage talks and speakers and to create a schedule."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Conference Management
-source_code_url: https://github.com/frab/frab
+source_code_url: "https://github.com/frab/frab"
 stargazers_count: 689
 updated_at: '2023-12-07'
 archived: false

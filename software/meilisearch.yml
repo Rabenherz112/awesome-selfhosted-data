@@ -1,6 +1,6 @@
-name: MeiliSearch
-website_url: https://www.meilisearch.com
-description: Ultra relevant, instant and typo-tolerant full-text search API.
+name: "MeiliSearch"
+website_url: "https://www.meilisearch.com"
+description: "Ultra relevant, instant and typo-tolerant full-text search API."
 licenses:
   - MIT
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - deb
 tags:
   - Search Engines
-source_code_url: https://github.com/meilisearch/MeiliSearch
+source_code_url: "https://github.com/meilisearch/MeiliSearch"
 stargazers_count: 41853
 updated_at: '2024-02-20'
 archived: false

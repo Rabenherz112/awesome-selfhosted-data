@@ -1,6 +1,6 @@
-name: SyncTube
-website_url: https://github.com/RblSb/SyncTube
-description: Lightweight and very simple to setup CyTube alternative to watch videos with friends and chat.
+name: "SyncTube"
+website_url: "https://github.com/RblSb/SyncTube"
+description: "Lightweight and very simple to setup CyTube alternative to watch videos with friends and chat."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Haxe
 tags:
   - Media Streaming - Video Streaming
-source_code_url: https://github.com/RblSb/SyncTube
+source_code_url: "https://github.com/RblSb/SyncTube"
 stargazers_count: 234
 updated_at: '2024-02-21'
 archived: false

@@ -1,13 +1,13 @@
-name: Hyphanet
-website_url: https://hyphanet.org/
-description: Anonymously share files, browse and publish _freesites_ (web sites accessible only through Hyphanet) and chat on forums.
+name: "Hyphanet"
+website_url: "https://hyphanet.org/"
+description: "Anonymously share files, browse and publish _freesites_ (web sites accessible only through Hyphanet) and chat on forums."
 licenses:
   - GPL-2.0
 platforms:
   - Java
 tags:
   - Communication - Custom Communication Systems
-source_code_url: https://github.com/hyphanet/fred
+source_code_url: "https://github.com/hyphanet/fred"
 stargazers_count: 975
 updated_at: '2024-02-15'
 archived: false

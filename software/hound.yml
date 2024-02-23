@@ -1,6 +1,6 @@
-name: Hound
-website_url: https://github.com/hound-search/hound
-description: Lightning fast code searching made easy.
+name: "Hound"
+website_url: "https://github.com/hound-search/hound"
+description: "Lightning fast code searching made easy."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Search Engines
-source_code_url: https://github.com/hound-search/hound
+source_code_url: "https://github.com/hound-search/hound"
 stargazers_count: 5520
 updated_at: '2023-07-14'
 archived: false

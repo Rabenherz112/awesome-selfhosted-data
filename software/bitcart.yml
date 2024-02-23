@@ -1,6 +1,6 @@
-name: Bitcart
-website_url: https://bitcart.ai
-description: A self-hosted cryptocurrencies payment processor and development platform.
+name: "Bitcart"
+website_url: "https://bitcart.ai"
+description: "A self-hosted cryptocurrencies payment processor and development platform."
 licenses:
   - MIT
 platforms:
@@ -9,8 +9,8 @@ platforms:
   - Nodejs
 tags:
   - Money, Budgeting & Management
-source_code_url: https://github.com/bitcart/bitcart
-demo_url: https://admin.bitcart.ai
+source_code_url: "https://github.com/bitcart/bitcart"
+demo_url: "https://admin.bitcart.ai"
 stargazers_count: 441
 updated_at: '2024-02-19'
 archived: false

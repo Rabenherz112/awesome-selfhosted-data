@@ -1,13 +1,13 @@
-name: GoatCounter
-website_url: https://www.goatcounter.com
-description: Easy web statistics without tracking of personal data.
+name: "GoatCounter"
+website_url: "https://www.goatcounter.com"
+description: "Easy web statistics without tracking of personal data."
 licenses:
   - EUPL-1.2
 platforms:
   - Go
 tags:
   - Analytics
-source_code_url: https://github.com/arp242/goatcounter
+source_code_url: "https://github.com/arp242/goatcounter"
 stargazers_count: 4039
 updated_at: '2023-12-19'
 archived: false

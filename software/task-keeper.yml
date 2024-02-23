@@ -1,13 +1,13 @@
-name: Task Keeper
-website_url: https://github.com/nymanjens/piga
-description: List editor for power users, backed by a self-hosted server.
+name: "Task Keeper"
+website_url: "https://github.com/nymanjens/piga"
+description: "List editor for power users, backed by a self-hosted server."
 licenses:
   - Apache-2.0
 platforms:
   - Scala
 tags:
   - Task Management & To-do Lists
-source_code_url: https://github.com/nymanjens/piga
+source_code_url: "https://github.com/nymanjens/piga"
 stargazers_count: 45
 updated_at: '2023-11-23'
 archived: false

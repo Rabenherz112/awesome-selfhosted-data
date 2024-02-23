@@ -1,13 +1,13 @@
-name: Bookwyrm
-website_url: https://joinbookwyrm.com/
-description: Social network for tracking your reading, talking about books, writing reviews, and discovering what to read next.
+name: "Bookwyrm"
+website_url: "https://joinbookwyrm.com/"
+description: "Social network for tracking your reading, talking about books, writing reviews, and discovering what to read next."
 licenses:
   - ⊘ Proprietary
 platforms:
   - Python
 tags:
   - Document Management - E-books
-source_code_url: https://github.com/bookwyrm-social/bookwyrm
+source_code_url: "https://github.com/bookwyrm-social/bookwyrm"
 stargazers_count: 2110
 updated_at: '2024-02-21'
 archived: false

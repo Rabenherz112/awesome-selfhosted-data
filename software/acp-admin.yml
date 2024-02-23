@@ -1,13 +1,13 @@
-name: ACP Admin
-website_url: https://acp-admin.ch/
-description: CSA administration. Manage members, subscriptions, deliveries, drop-off locations, member participation, invoices and emails (documentation in French).
+name: "ACP Admin"
+website_url: "https://acp-admin.ch/"
+description: "CSA administration. Manage members, subscriptions, deliveries, drop-off locations, member participation, invoices and emails (documentation in French)."
 licenses:
   - MIT
 platforms:
   - Ruby
 tags:
   - Community-Supported Agriculture (CSA)
-source_code_url: https://github.com/acp-admin/acp-admin/
+source_code_url: "https://github.com/acp-admin/acp-admin/"
 stargazers_count: 31
 updated_at: '2024-02-20'
 archived: false

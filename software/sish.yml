@@ -1,6 +1,6 @@
-name: sish
-website_url: https://github.com/antoniomika/sish
-description: HTTP(S)/WS(S)/TCP tunnels to localhost using only SSH (serveo/ngrok alternative).
+name: "sish"
+website_url: "https://github.com/antoniomika/sish"
+description: "HTTP(S)/WS(S)/TCP tunnels to localhost using only SSH (serveo/ngrok alternative)."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Proxy
-source_code_url: https://github.com/antoniomika/sish
+source_code_url: "https://github.com/antoniomika/sish"
 stargazers_count: 3687
 updated_at: '2024-02-13'
 archived: false

@@ -1,6 +1,6 @@
-name: Ergo
-website_url: https://ergo.chat/
-description: Modern IRCv3 server written in Go, combining the features of an ircd, a services framework, and a bouncer.
+name: "Ergo"
+website_url: "https://ergo.chat/"
+description: "Modern IRCv3 server written in Go, combining the features of an ircd, a services framework, and a bouncer."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Communication - IRC
-source_code_url: https://github.com/ergochat/ergo
+source_code_url: "https://github.com/ergochat/ergo"
 stargazers_count: 2096
 updated_at: '2024-02-14'
 archived: false

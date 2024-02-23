@@ -1,6 +1,6 @@
-name: ONLYOFFICE
-website_url: https://helpcenter.onlyoffice.com/faq/server-opensource.aspx
-description: Office suite that enables you to manage documents, projects, team and customer relations in one place.
+name: "ONLYOFFICE"
+website_url: "https://helpcenter.onlyoffice.com/faq/server-opensource.aspx"
+description: "Office suite that enables you to manage documents, projects, team and customer relations in one place."
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Office Suites
-source_code_url: https://github.com/ONLYOFFICE/DocumentServer
+source_code_url: "https://github.com/ONLYOFFICE/DocumentServer"
 stargazers_count: 4213
 updated_at: '2024-02-15'
 archived: false

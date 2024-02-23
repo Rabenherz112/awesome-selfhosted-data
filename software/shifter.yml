@@ -1,13 +1,13 @@
-name: Shifter
-website_url: https://github.com/TobySuch/Shifter
-description: A simple, self-hosted file-sharing web app, powered by Django.
+name: "Shifter"
+website_url: "https://github.com/TobySuch/Shifter"
+description: "A simple, self-hosted file-sharing web app, powered by Django."
 licenses:
   - MIT
 platforms:
   - Docker
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
-source_code_url: https://github.com/TobySuch/Shifter
+source_code_url: "https://github.com/TobySuch/Shifter"
 stargazers_count: 15
 updated_at: '2024-02-19'
 archived: false

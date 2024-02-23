@@ -1,6 +1,6 @@
-name: code-server
-website_url: https://github.com/coder/code-server
-description: VS Code in the browser, hosted on a remote server.
+name: "code-server"
+website_url: "https://github.com/coder/code-server"
+description: "VS Code in the browser, hosted on a remote server."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Software Development - IDE & Tools
-source_code_url: https://github.com/coder/code-server
+source_code_url: "https://github.com/coder/code-server"
 stargazers_count: 64273
 updated_at: '2024-02-21'
 archived: false

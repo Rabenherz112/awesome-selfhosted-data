@@ -1,13 +1,13 @@
-name: Judge0 CE
-website_url: https://judge0.com
-description: Open source API to compile and run source code.
+name: "Judge0 CE"
+website_url: "https://judge0.com"
+description: "Open source API to compile and run source code."
 licenses:
   - GPL-3.0
 platforms:
   - Docker
 tags:
   - Software Development - IDE & Tools
-source_code_url: https://github.com/judge0/judge0
+source_code_url: "https://github.com/judge0/judge0"
 stargazers_count: 1923
 updated_at: '2024-02-11'
 archived: false

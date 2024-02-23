@@ -1,6 +1,6 @@
-name: Beets
-website_url: https://beets.io/
-description: Music library manager and MusicBrainz tagger (command-line and Web interface).
+name: "Beets"
+website_url: "https://beets.io/"
+description: "Music library manager and MusicBrainz tagger (command-line and Web interface)."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - deb
 tags:
   - Media Streaming - Audio Streaming
-source_code_url: https://github.com/beetbox/beets
+source_code_url: "https://github.com/beetbox/beets"
 stargazers_count: 12268
 updated_at: '2024-02-21'
 archived: false

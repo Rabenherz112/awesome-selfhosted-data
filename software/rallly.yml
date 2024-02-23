@@ -1,6 +1,6 @@
-name: Rallly
-website_url: https://rallly.co
-description: Create polls to vote on dates and times (alternative to Doodle).
+name: "Rallly"
+website_url: "https://rallly.co"
+description: "Create polls to vote on dates and times (alternative to Doodle)."
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,8 +9,8 @@ platforms:
 tags:
   - Booking and Scheduling
   - Polls and Events
-source_code_url: https://github.com/lukevella/rallly
-demo_url: https://app.rallly.co
+source_code_url: "https://github.com/lukevella/rallly"
+demo_url: "https://app.rallly.co"
 stargazers_count: 2864
 updated_at: '2024-02-21'
 archived: false

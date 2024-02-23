@@ -1,6 +1,6 @@
-name: CommaFeed
-website_url: https://www.commafeed.com/
-description: Google Reader inspired self-hosted RSS reader.
+name: "CommaFeed"
+website_url: "https://www.commafeed.com/"
+description: "Google Reader inspired self-hosted RSS reader."
 licenses:
   - Apache-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Feed Readers
-source_code_url: https://github.com/Athou/commafeed
+source_code_url: "https://github.com/Athou/commafeed"
 stargazers_count: 2405
 updated_at: '2024-02-21'
 archived: false

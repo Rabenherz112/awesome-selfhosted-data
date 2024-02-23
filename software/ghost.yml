@@ -1,13 +1,13 @@
-name: Ghost
-website_url: https://ghost.org/
-description: Just a blogging platform.
+name: "Ghost"
+website_url: "https://ghost.org/"
+description: "Just a blogging platform."
 licenses:
   - MIT
 platforms:
   - Nodejs
 tags:
   - Blogging Platforms
-source_code_url: https://github.com/TryGhost/Ghost
+source_code_url: "https://github.com/TryGhost/Ghost"
 stargazers_count: 45169
 updated_at: '2024-02-22'
 archived: false

@@ -1,6 +1,6 @@
-name: Octave Online
-website_url: https://octave-online.net/
-description: Infrastracture behind a web UI for GNU Octave (alternative to MATLAB).
+name: "Octave Online"
+website_url: "https://octave-online.net/"
+description: "Infrastracture behind a web UI for GNU Octave (alternative to MATLAB)."
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Nodejs
 tags:
   - Miscellaneous
-source_code_url: https://github.com/octave-online/octave-online-server
+source_code_url: "https://github.com/octave-online/octave-online-server"
 stargazers_count: 299
 updated_at: '2024-01-03'
 archived: false

@@ -1,6 +1,6 @@
-name: QuickShare
-website_url: https://github.com/ihexxa/quickshare
-description: Quick and simple file sharing between different devices.
+name: "QuickShare"
+website_url: "https://github.com/ihexxa/quickshare"
+description: "Quick and simple file sharing between different devices."
 licenses:
   - LGPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Go
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
-source_code_url: https://github.com/ihexxa/quickshare
+source_code_url: "https://github.com/ihexxa/quickshare"
 stargazers_count: 465
 updated_at: '2024-02-22'
 archived: false

@@ -1,6 +1,6 @@
-name: Synapse
-website_url: https://matrix-org.github.io/synapse/latest/
-description: Server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication.
+name: "Synapse"
+website_url: "https://matrix-org.github.io/synapse/latest/"
+description: "Server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication."
 licenses:
   - Apache-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - deb
 tags:
   - Communication - Custom Communication Systems
-source_code_url: https://github.com/element-hq/synapse
+source_code_url: "https://github.com/element-hq/synapse"
 stargazers_count: 457
 updated_at: '2024-02-22'
 archived: false

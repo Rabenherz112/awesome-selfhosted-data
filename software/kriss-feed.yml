@@ -1,13 +1,13 @@
-name: Kriss Feed
-website_url: https://github.com/tontof/kriss_feed
-description: Simple and smart (or stupid) feed reader.
+name: "Kriss Feed"
+website_url: "https://github.com/tontof/kriss_feed"
+description: "Simple and smart (or stupid) feed reader."
 licenses:
   - CC0-1.0
 platforms:
   - PHP
 tags:
   - Feed Readers
-source_code_url: https://github.com/tontof/kriss_feed
+source_code_url: "https://github.com/tontof/kriss_feed"
 stargazers_count: 276
 updated_at: '2024-02-15'
 archived: false

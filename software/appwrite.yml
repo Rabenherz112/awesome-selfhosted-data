@@ -1,13 +1,13 @@
-name: Appwrite
-website_url: https://appwrite.io
-description: End to end backend server for web, native, and mobile developers 🚀.
+name: "Appwrite"
+website_url: "https://appwrite.io"
+description: "End to end backend server for web, native, and mobile developers 🚀."
 licenses:
   - BSD-3-Clause
 platforms:
   - Docker
 tags:
   - Software Development - FaaS & Serverless
-source_code_url: https://github.com/appwrite/appwrite
+source_code_url: "https://github.com/appwrite/appwrite"
 stargazers_count: 39453
 updated_at: '2024-02-20'
 archived: false

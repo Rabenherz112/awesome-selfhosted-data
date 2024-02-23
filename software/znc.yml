@@ -1,6 +1,6 @@
-name: ZNC
-website_url: https://wiki.znc.in/ZNC
-description: Advanced IRC bouncer.
+name: "ZNC"
+website_url: "https://wiki.znc.in/ZNC"
+description: "Advanced IRC bouncer."
 licenses:
   - Apache-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - deb
 tags:
   - Communication - IRC
-source_code_url: https://github.com/znc/znc
+source_code_url: "https://github.com/znc/znc"
 stargazers_count: 1981
 updated_at: '2024-02-23'
 archived: false

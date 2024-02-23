@@ -1,6 +1,6 @@
-name: MyPaas
-website_url: https://github.com/almarklein/mypaas
-description: Run your own PaaS using Docker, Traefik, and great monitoring.
+name: "MyPaas"
+website_url: "https://github.com/almarklein/mypaas"
+description: "Run your own PaaS using Docker, Traefik, and great monitoring."
 licenses:
   - BSD-2-Clause
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Miscellaneous
-source_code_url: https://github.com/almarklein/mypaas
+source_code_url: "https://github.com/almarklein/mypaas"
 stargazers_count: 358
 updated_at: '2023-05-10'
 archived: false

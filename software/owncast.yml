@@ -1,13 +1,13 @@
-name: Owncast
-website_url: https://owncast.online/
-description: Decentralized single-user live video streaming and chat server for running your own live streams similar in style to the large mainstream options.
+name: "Owncast"
+website_url: "https://owncast.online/"
+description: "Decentralized single-user live video streaming and chat server for running your own live streams similar in style to the large mainstream options."
 licenses:
   - MIT
 platforms:
   - Go
 tags:
   - Media Streaming - Video Streaming
-source_code_url: https://github.com/owncast/owncast
+source_code_url: "https://github.com/owncast/owncast"
 stargazers_count: 8707
 updated_at: '2024-02-22'
 archived: false

@@ -1,13 +1,13 @@
-name: KChat
-website_url: https://github.com/php-kchat/kchat
-description: PHP Based Live Chat Application.
+name: "KChat"
+website_url: "https://github.com/php-kchat/kchat"
+description: "PHP Based Live Chat Application."
 licenses:
   - Apache-2.0
 platforms:
   - PHP
 tags:
   - Communication - Custom Communication Systems
-source_code_url: https://github.com/php-kchat/kchat
+source_code_url: "https://github.com/php-kchat/kchat"
 stargazers_count: 126
 updated_at: '2023-09-05'
 archived: false

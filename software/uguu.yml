@@ -1,13 +1,13 @@
-name: Uguu
-website_url: https://github.com/nokonoko/uguu
-description: Stores files and deletes after X amount of time.
+name: "Uguu"
+website_url: "https://github.com/nokonoko/uguu"
+description: "Stores files and deletes after X amount of time."
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
   - File Transfer - Single-click & Drag-n-drop Upload
-source_code_url: https://github.com/nokonoko/uguu
+source_code_url: "https://github.com/nokonoko/uguu"
 stargazers_count: 734
 updated_at: '2024-01-01'
 archived: false

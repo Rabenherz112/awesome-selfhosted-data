@@ -1,6 +1,6 @@
-name: Tracim
-website_url: https://github.com/tracim/tracim
-description: 'Collaborative Platform for team collaboration: file,threads,notes,agenda,etc.'
+name: "Tracim"
+website_url: "https://github.com/tracim/tracim"
+description: "'Collaborative Platform for team collaboration: file,threads,notes,agenda,etc.'"
 licenses:
   - AGPL-3.0
   - LGPL-3.0
@@ -9,7 +9,7 @@ platforms:
   - Python
 tags:
   - Groupware
-source_code_url: https://github.com/tracim/tracim
+source_code_url: "https://github.com/tracim/tracim"
 stargazers_count: 198
 updated_at: '2024-02-14'
 archived: false

@@ -1,14 +1,14 @@
-name: ILIAS
-website_url: https://www.ilias.de
-description: ILIAS is the Learning Management System that can cope with anything you throw at it.
+name: "ILIAS"
+website_url: "https://www.ilias.de"
+description: "ILIAS is the Learning Management System that can cope with anything you throw at it."
 licenses:
   - GPL-3.0
 platforms:
   - PHP
 tags:
   - Learning and Courses
-source_code_url: https://github.com/ILIAS-eLearning/ILIAS
-demo_url: https://demo.ilias.de
+source_code_url: "https://github.com/ILIAS-eLearning/ILIAS"
+demo_url: "https://demo.ilias.de"
 stargazers_count: 358
 updated_at: '2024-02-22'
 archived: false

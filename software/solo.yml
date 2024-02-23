@@ -1,11 +1,11 @@
-name: Solo
-website_url: https://www.getsoloapp.com/
-description: Free project management app created for freelancers. Create contacts, manage tasks, upload files, track project progress, and keep notes.
+name: "Solo"
+website_url: "https://www.getsoloapp.com/"
+description: "Free project management app created for freelancers. Create contacts, manage tasks, upload files, track project progress, and keep notes."
 licenses:
   - ⊘ Proprietary
 platforms:
   - PHP
 tags:
   - Software Development - Project Management
-source_code_url: https://www.getsoloapp.com/
-demo_url: https://www.getsoloapp.com/demo/
+source_code_url: "https://www.getsoloapp.com/"
+demo_url: "https://www.getsoloapp.com/demo/"

@@ -1,6 +1,6 @@
-name: Nhost
-website_url: https://nhost.io/
-description: Firebase Alternative with GraphQL. Get a database and backend configured and ready in minutes.
+name: "Nhost"
+website_url: "https://nhost.io/"
+description: "Firebase Alternative with GraphQL. Get a database and backend configured and ready in minutes."
 licenses:
   - MIT
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - Go
 tags:
   - Software Development - FaaS & Serverless
-source_code_url: https://github.com/nhost/nhost
+source_code_url: "https://github.com/nhost/nhost"
 stargazers_count: 7383
 updated_at: '2024-02-22'
 archived: false

@@ -1,6 +1,6 @@
-name: gonic
-website_url: https://github.com/sentriz/gonic
-description: Lightweight music streaming server. Subsonic compatible.
+name: "gonic"
+website_url: "https://github.com/sentriz/gonic"
+description: "Lightweight music streaming server. Subsonic compatible."
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Media Streaming - Audio Streaming
-source_code_url: https://github.com/sentriz/gonic
+source_code_url: "https://github.com/sentriz/gonic"
 stargazers_count: 1344
 updated_at: '2024-02-21'
 archived: false

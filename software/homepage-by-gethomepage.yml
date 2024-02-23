@@ -1,6 +1,6 @@
-name: Homepage by gethomepage
-website_url: https://github.com/gethomepage/homepage
-description: A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+name: "Homepage by gethomepage"
+website_url: "https://github.com/gethomepage/homepage"
+description: "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations."
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Nodejs
 tags:
   - Personal Dashboards
-source_code_url: https://github.com/gethomepage/homepage
+source_code_url: "https://github.com/gethomepage/homepage"
 stargazers_count: 13985
 updated_at: '2024-02-21'
 archived: false

@@ -1,6 +1,6 @@
-name: Wikmd
-website_url: https://github.com/Linbreux/wikmd
-description: Modern and simple file based wiki that uses Markdown and Git.
+name: "Wikmd"
+website_url: "https://github.com/Linbreux/wikmd"
+description: "Modern and simple file based wiki that uses Markdown and Git."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Wikis
-source_code_url: https://github.com/Linbreux/wikmd
+source_code_url: "https://github.com/Linbreux/wikmd"
 stargazers_count: 282
 updated_at: '2024-02-21'
 archived: false

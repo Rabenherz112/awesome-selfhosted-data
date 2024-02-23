@@ -1,13 +1,13 @@
-name: Mealie
-website_url: https://nightly.mealie.io/
-description: Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app.
+name: "Mealie"
+website_url: "https://nightly.mealie.io/"
+description: "Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app."
 licenses:
   - MIT
 platforms:
   - Python
 tags:
   - Recipe Management
-source_code_url: https://github.com/mealie-recipes/mealie
+source_code_url: "https://github.com/mealie-recipes/mealie"
 stargazers_count: 4512
 updated_at: '2024-02-22'
 archived: false

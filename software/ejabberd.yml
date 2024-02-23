@@ -1,6 +1,6 @@
-name: ejabberd
-website_url: https://www.ejabberd.im/
-description: XMPP instant messaging server.
+name: "ejabberd"
+website_url: "https://www.ejabberd.im/"
+description: "XMPP instant messaging server."
 licenses:
   - GPL-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Communication - XMPP - Servers
-source_code_url: https://github.com/processone/ejabberd
+source_code_url: "https://github.com/processone/ejabberd"
 stargazers_count: 5860
 updated_at: '2024-02-22'
 archived: false

@@ -1,6 +1,6 @@
-name: Damselfly
-website_url: https://damselfly.info
-description: Fast server-based photo management system for large collections of images. Includes face detection, face & object recognition, powerful search, and EXIF Keyword tagging. Runs on Linux, MacOS and Windows.
+name: "Damselfly"
+website_url: "https://damselfly.info"
+description: "Fast server-based photo management system for large collections of images. Includes face detection, face & object recognition, powerful search, and EXIF Keyword tagging. Runs on Linux, MacOS and Windows."
 licenses:
   - GPL-3.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - .NET
 tags:
   - Photo and Video Galleries
-source_code_url: https://github.com/webreaper/damselfly
+source_code_url: "https://github.com/webreaper/damselfly"
 stargazers_count: 1217
 updated_at: '2024-01-19'
 archived: false

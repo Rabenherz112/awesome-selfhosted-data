@@ -1,6 +1,6 @@
-name: Hemmelig
-website_url: https://hemmelig.app
-description: Share encrypted secrets cross organizations, or as private persons.
+name: "Hemmelig"
+website_url: "https://hemmelig.app"
+description: "Share encrypted secrets cross organizations, or as private persons."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Nodejs
 tags:
   - Pastebins
-source_code_url: https://github.com/HemmeligOrg/Hemmelig.app
+source_code_url: "https://github.com/HemmeligOrg/Hemmelig.app"
 stargazers_count: 609
 updated_at: '2024-02-16'
 archived: false

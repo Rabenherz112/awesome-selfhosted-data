@@ -1,6 +1,6 @@
-name: Mumble
-website_url: https://wiki.mumble.info/wiki/Main_Page
-description: Low-latency, high quality voice/text chat software.
+name: "Mumble"
+website_url: "https://wiki.mumble.info/wiki/Main_Page"
+description: "Low-latency, high quality voice/text chat software."
 licenses:
   - BSD-3-Clause
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - deb
 tags:
   - Communication - Custom Communication Systems
-source_code_url: https://github.com/mumble-voip/mumble
+source_code_url: "https://github.com/mumble-voip/mumble"
 related_software_url: https://wiki.mumble.info/wiki/3rd_Party_Applications
 stargazers_count: 5873
 updated_at: '2024-02-18'

@@ -1,6 +1,6 @@
-name: Jellyfin
-website_url: https://jellyfin.org
-description: Media server for audio, video, books, comics, and photos with a sleek interface and robust transcoding capabilities. Almost all modern platforms have clients, including Roku, Android TV, iOS, and Kodi.
+name: "Jellyfin"
+website_url: "https://jellyfin.org"
+description: "Media server for audio, video, books, comics, and photos with a sleek interface and robust transcoding capabilities. Almost all modern platforms have clients, including Roku, Android TV, iOS, and Kodi."
 licenses:
   - GPL-2.0
 platforms:
@@ -9,8 +9,8 @@ platforms:
   - Docker
 tags:
   - Media Streaming - Multimedia Streaming
-source_code_url: https://github.com/jellyfin/jellyfin
-demo_url: https://demo.jellyfin.org/stable
+source_code_url: "https://github.com/jellyfin/jellyfin"
+demo_url: "https://demo.jellyfin.org/stable"
 related_software_url: https://github.com/awesome-jellyfin/awesome-jellyfin
 stargazers_count: 28242
 updated_at: '2024-02-22'

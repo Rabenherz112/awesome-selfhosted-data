@@ -1,13 +1,13 @@
-name: Kirby
-website_url: https://getkirby.com/
-description: File-based CMS. Easy to setup. Easy to use. Flexible as hell.
+name: "Kirby"
+website_url: "https://getkirby.com/"
+description: "File-based CMS. Easy to setup. Easy to use. Flexible as hell."
 licenses:
   - ⊘ Proprietary
 platforms:
   - PHP
 tags:
   - Content Management Systems (CMS)
-source_code_url: https://github.com/getkirby/kirby
+source_code_url: "https://github.com/getkirby/kirby"
 stargazers_count: 1156
 updated_at: '2024-01-30'
 archived: false

@@ -1,6 +1,6 @@
-name: Organizr
-website_url: https://github.com/causefx/Organizr
-description: Organizr aims to be your one stop shop for your Servers Frontend.
+name: "Organizr"
+website_url: "https://github.com/causefx/Organizr"
+description: "Organizr aims to be your one stop shop for your Servers Frontend."
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Personal Dashboards
-source_code_url: https://github.com/causefx/Organizr
+source_code_url: "https://github.com/causefx/Organizr"
 stargazers_count: 4809
 updated_at: '2023-11-21'
 archived: false

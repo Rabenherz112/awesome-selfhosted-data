@@ -1,6 +1,6 @@
-name: yt-dlp Web UI
-website_url: https://github.com/marcopeocchi/yt-dlp-web-ui
-description: Web GUI for yt-dlp.
+name: "yt-dlp Web UI"
+website_url: "https://github.com/marcopeocchi/yt-dlp-web-ui"
+description: "Web GUI for yt-dlp."
 licenses:
   - MPL-2.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - Nodejs
 tags:
   - Automation
-source_code_url: https://github.com/marcopeocchi/yt-dlp-web-ui
+source_code_url: "https://github.com/marcopeocchi/yt-dlp-web-ui"
 stargazers_count: 444
 updated_at: '2024-02-05'
 archived: false

@@ -1,6 +1,6 @@
-name: Shiori
-website_url: https://github.com/go-shiori/shiori
-description: Simple bookmark manager built with Go.
+name: "Shiori"
+website_url: "https://github.com/go-shiori/shiori"
+description: "Simple bookmark manager built with Go."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Bookmarks and Link Sharing
-source_code_url: https://github.com/go-shiori/shiori
+source_code_url: "https://github.com/go-shiori/shiori"
 stargazers_count: 8482
 updated_at: '2024-02-13'
 archived: false

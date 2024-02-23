@@ -1,6 +1,6 @@
-name: Simply Shorten
-website_url: https://gitlab.com/draganczukp/simply-shorten
-description: A simple URL shortener that just shortens links.
+name: "Simply Shorten"
+website_url: "https://gitlab.com/draganczukp/simply-shorten"
+description: "A simple URL shortener that just shortens links."
 licenses:
   - MIT
 platforms:
@@ -8,4 +8,4 @@ platforms:
   - Docker
 tags:
   - URL Shorteners
-source_code_url: https://gitlab.com/draganczukp/simply-shorten
+source_code_url: "https://gitlab.com/draganczukp/simply-shorten"

@@ -1,6 +1,6 @@
-name: JupyterLab
-website_url: https://jupyterlab.readthedocs.io/en/stable/
-description: Web-based environment for interactive and reproducible computing.
+name: "JupyterLab"
+website_url: "https://jupyterlab.readthedocs.io/en/stable/"
+description: "Web-based environment for interactive and reproducible computing."
 licenses:
   - BSD-3-Clause
 platforms:
@@ -8,8 +8,8 @@ platforms:
   - Docker
 tags:
   - Software Development - IDE & Tools
-source_code_url: https://github.com/jupyterlab/jupyterlab/
-demo_url: https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/try.jupyter.org?urlpath=lab
+source_code_url: "https://github.com/jupyterlab/jupyterlab/"
+demo_url: "https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/try.jupyter.org?urlpath=lab"
 stargazers_count: 13626
 updated_at: '2024-02-22'
 archived: false

@@ -1,6 +1,6 @@
-name: Input
-website_url: https://getinput.co
-description: A privacy-focused, no-code, open-source form builder designed for simplicity and brand consistency.
+name: "Input"
+website_url: "https://getinput.co"
+description: "A privacy-focused, no-code, open-source form builder designed for simplicity and brand consistency."
 licenses:
   - AGPL-3.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - Docker
 tags:
   - Polls and Events
-source_code_url: https://github.com/deck9/input
+source_code_url: "https://github.com/deck9/input"
 stargazers_count: 114
 updated_at: '2024-02-16'
 archived: false

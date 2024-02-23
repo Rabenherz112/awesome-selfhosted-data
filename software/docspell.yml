@@ -1,6 +1,6 @@
-name: Docspell
-website_url: https://docspell.org
-description: Auto-tagging document organizer and archive.
+name: "Docspell"
+website_url: "https://docspell.org"
+description: "Auto-tagging document organizer and archive."
 licenses:
   - GPL-3.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - Docker
 tags:
   - Document Management
-source_code_url: https://github.com/eikek/docspell
+source_code_url: "https://github.com/eikek/docspell"
 stargazers_count: 1376
 updated_at: '2024-02-21'
 archived: false

@@ -1,6 +1,6 @@
-name: Memos
-website_url: https://usememos.com/
-description: An open source, self-hosted knowledge base that works with a SQLite db file.
+name: "Memos"
+website_url: "https://usememos.com/"
+description: "An open source, self-hosted knowledge base that works with a SQLite db file."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Go
 tags:
   - Note-taking & Editors
-source_code_url: https://github.com/usememos/memos
+source_code_url: "https://github.com/usememos/memos"
 stargazers_count: 25066
 updated_at: '2024-02-22'
 archived: false

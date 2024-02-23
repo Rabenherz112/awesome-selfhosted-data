@@ -1,13 +1,13 @@
-name: Redash
-website_url: http://redash.io
-description: Connect and query your data sources, build dashboards to visualize data and share them with your company.
+name: "Redash"
+website_url: "http://redash.io"
+description: "Connect and query your data sources, build dashboards to visualize data and share them with your company."
 licenses:
   - BSD-2-Clause
 platforms:
   - Docker
 tags:
   - Analytics
-source_code_url: https://github.com/getredash/redash
+source_code_url: "https://github.com/getredash/redash"
 stargazers_count: 24631
 updated_at: '2024-02-22'
 archived: false

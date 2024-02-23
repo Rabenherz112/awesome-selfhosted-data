@@ -1,6 +1,6 @@
-name: WeTTY
-website_url: https://butlerx.github.io/wetty/#/
-description: Terminal in browser over http/https.
+name: "WeTTY"
+website_url: "https://butlerx.github.io/wetty/#/"
+description: "Terminal in browser over http/https."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Nodejs
 tags:
   - Miscellaneous
-source_code_url: https://github.com/butlerx/wetty
+source_code_url: "https://github.com/butlerx/wetty"
 stargazers_count: 3977
 updated_at: '2023-10-02'
 archived: false

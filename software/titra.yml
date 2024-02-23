@@ -1,6 +1,6 @@
-name: Titra
-website_url: https://titra.io/
-description: Time-tracking solution for freelancers and small teams.
+name: "Titra"
+website_url: "https://titra.io/"
+description: "Time-tracking solution for freelancers and small teams."
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Software Development - Project Management
-source_code_url: https://github.com/kromitgmbh/titra
+source_code_url: "https://github.com/kromitgmbh/titra"
 stargazers_count: 378
 updated_at: '2024-02-21'
 archived: false

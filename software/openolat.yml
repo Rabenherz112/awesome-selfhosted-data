@@ -1,14 +1,14 @@
-name: OpenOLAT
-website_url: https://www.openolat.com/?lang=en
-description: OpenOLAT is a web-based learning management system for teaching, education, assessment and communication.
+name: "OpenOLAT"
+website_url: "https://www.openolat.com/?lang=en"
+description: "OpenOLAT is a web-based learning management system for teaching, education, assessment and communication."
 licenses:
   - Apache-2.0
 platforms:
   - Java
 tags:
   - Learning and Courses
-source_code_url: https://github.com/OpenOLAT/OpenOLAT
-demo_url: https://learn.olat.com
+source_code_url: "https://github.com/OpenOLAT/OpenOLAT"
+demo_url: "https://learn.olat.com"
 stargazers_count: 280
 updated_at: '2024-02-22'
 archived: false

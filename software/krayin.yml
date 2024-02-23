@@ -1,14 +1,14 @@
-name: Krayin
-website_url: https://krayincrm.com/
-description: Free and Opensource Laravel CRM Application.
+name: "Krayin"
+website_url: "https://krayincrm.com/"
+description: "Free and Opensource Laravel CRM Application."
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
   - Automation
-source_code_url: https://github.com/krayin/laravel-crm
-demo_url: https://demo.krayincrm.com/
+source_code_url: "https://github.com/krayin/laravel-crm"
+demo_url: "https://demo.krayincrm.com/"
 stargazers_count: 5216
 updated_at: '2023-06-15'
 archived: false

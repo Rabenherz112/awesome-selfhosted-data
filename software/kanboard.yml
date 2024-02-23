@@ -1,13 +1,13 @@
-name: Kanboard
-website_url: https://kanboard.org/
-description: Simple and open source visual task board.
+name: "Kanboard"
+website_url: "https://kanboard.org/"
+description: "Simple and open source visual task board."
 licenses:
   - MIT
 platforms:
   - PHP
 tags:
   - Task Management & To-do Lists
-source_code_url: https://github.com/kanboard/kanboard
+source_code_url: "https://github.com/kanboard/kanboard"
 stargazers_count: 7989
 updated_at: '2024-02-16'
 archived: false

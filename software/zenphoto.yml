@@ -1,13 +1,13 @@
-name: Zenphoto
-website_url: https://www.zenphoto.org/
-description: Open-source gallery and CMS project.
+name: "Zenphoto"
+website_url: "https://www.zenphoto.org/"
+description: "Open-source gallery and CMS project."
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
   - Photo and Video Galleries
-source_code_url: https://github.com/zenphoto/zenphoto
+source_code_url: "https://github.com/zenphoto/zenphoto"
 stargazers_count: 294
 updated_at: '2024-02-19'
 archived: false

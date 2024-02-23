@@ -1,6 +1,6 @@
-name: RecipeSage
-website_url: https://github.com/julianpoy/recipesage
-description: A recipe keeper, meal plan organizer, and shopping list manager that can import recipes directly from any URL.
+name: "RecipeSage"
+website_url: "https://github.com/julianpoy/recipesage"
+description: "A recipe keeper, meal plan organizer, and shopping list manager that can import recipes directly from any URL."
 licenses:
   - AGPL-3.0
 platforms:
@@ -8,8 +8,8 @@ platforms:
 tags:
   - Recipe Management
   - Inventory Management
-source_code_url: https://github.com/julianpoy/recipesage
-demo_url: https://recipesage.com
+source_code_url: "https://github.com/julianpoy/recipesage"
+demo_url: "https://recipesage.com"
 stargazers_count: 504
 updated_at: '2024-02-22'
 archived: false

@@ -1,6 +1,6 @@
-name: Jump
-website_url: https://github.com/daledavies/jump
-description: Yet another self-hosted startpage for your server designed to be simple, stylish, fast and secure.
+name: "Jump"
+website_url: "https://github.com/daledavies/jump"
+description: "Yet another self-hosted startpage for your server designed to be simple, stylish, fast and secure."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - PHP
 tags:
   - Personal Dashboards
-source_code_url: https://github.com/daledavies/jump
+source_code_url: "https://github.com/daledavies/jump"
 stargazers_count: 472
 updated_at: '2023-04-19'
 archived: false

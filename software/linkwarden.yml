@@ -1,6 +1,6 @@
-name: LinkWarden
-website_url: https://linkwarden.app/
-description: A self-hosted bookmark + archive manager to store your useful links.
+name: "LinkWarden"
+website_url: "https://linkwarden.app/"
+description: "A self-hosted bookmark + archive manager to store your useful links."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Nodejs
 tags:
   - Bookmarks and Link Sharing
-source_code_url: https://github.com/linkwarden/linkwarden
+source_code_url: "https://github.com/linkwarden/linkwarden"
 stargazers_count: 4393
 updated_at: '2024-01-17'
 archived: false

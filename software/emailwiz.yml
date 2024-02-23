@@ -1,13 +1,13 @@
-name: emailwiz
-website_url: https://github.com/LukeSmithxyz/emailwiz
-description: Luke Smith's bash script to completely automate the setup of a Postfix/Dovecot/SpamAssassin/OpenDKIM server on debian.
+name: "emailwiz"
+website_url: "https://github.com/LukeSmithxyz/emailwiz"
+description: "Luke Smith's bash script to completely automate the setup of a Postfix/Dovecot/SpamAssassin/OpenDKIM server on debian."
 licenses:
   - GPL-3.0
 platforms:
   - Shell
 tags:
   - Communication - Email - Complete Solutions
-source_code_url: https://github.com/LukeSmithxyz/emailwiz
+source_code_url: "https://github.com/LukeSmithxyz/emailwiz"
 stargazers_count: 1509
 updated_at: '2024-02-10'
 archived: false

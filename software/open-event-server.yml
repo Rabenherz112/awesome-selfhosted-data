@@ -1,6 +1,6 @@
-name: Open Event Server
-website_url: https://github.com/fossasia/open-event-server
-description: Enables organizers to manage events from concerts to conferences and meet-ups.
+name: "Open Event Server"
+website_url: "https://github.com/fossasia/open-event-server"
+description: "Enables organizers to manage events from concerts to conferences and meet-ups."
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Polls and Events
-source_code_url: https://github.com/fossasia/open-event-server
+source_code_url: "https://github.com/fossasia/open-event-server"
 stargazers_count: 2944
 updated_at: '2023-12-03'
 archived: false

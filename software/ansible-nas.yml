@@ -1,6 +1,6 @@
-name: Ansible-NAS
-website_url: https://github.com/DaveStephens/ansible-nas
-description: Build a full-featured home server with this playbook and an Ubuntu box.
+name: "Ansible-NAS"
+website_url: "https://github.com/DaveStephens/ansible-nas"
+description: "Build a full-featured home server with this playbook and an Ubuntu box."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Self-hosting Solutions
-source_code_url: https://github.com/DaveStephens/ansible-nas
+source_code_url: "https://github.com/DaveStephens/ansible-nas"
 stargazers_count: 2868
 updated_at: '2024-01-09'
 archived: false

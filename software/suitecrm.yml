@@ -1,13 +1,13 @@
-name: SuiteCRM
-website_url: https://suitecrm.com
-description: The award-winning, enterprise-class open source CRM.
+name: "SuiteCRM"
+website_url: "https://suitecrm.com"
+description: "The award-winning, enterprise-class open source CRM."
 licenses:
   - AGPL-3.0
 platforms:
   - PHP
 tags:
   - Groupware
-source_code_url: https://github.com/salesagility/SuiteCRM
+source_code_url: "https://github.com/salesagility/SuiteCRM"
 stargazers_count: 4013
 updated_at: '2024-01-31'
 archived: false

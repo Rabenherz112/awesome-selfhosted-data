@@ -1,13 +1,13 @@
-name: Quizmaster
-website_url: https://github.com/nymanjens/quizmaster
-description: A web-app for conducting a quiz, including a page for players to enter their answers.
+name: "Quizmaster"
+website_url: "https://github.com/nymanjens/quizmaster"
+description: "A web-app for conducting a quiz, including a page for players to enter their answers."
 licenses:
   - Apache-2.0
 platforms:
   - Scala
 tags:
   - Games
-source_code_url: https://github.com/nymanjens/quizmaster
+source_code_url: "https://github.com/nymanjens/quizmaster"
 stargazers_count: 198
 updated_at: '2023-11-23'
 archived: false

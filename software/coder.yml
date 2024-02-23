@@ -1,6 +1,6 @@
-name: Coder
-website_url: https://coder.com/
-description: Remote development machines on your own infrastructure.
+name: "Coder"
+website_url: "https://coder.com/"
+description: "Remote development machines on your own infrastructure."
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,7 +10,7 @@ platforms:
   - deb
 tags:
   - Software Development - IDE & Tools
-source_code_url: https://github.com/coder/coder
+source_code_url: "https://github.com/coder/coder"
 stargazers_count: 6373
 updated_at: '2024-02-22'
 archived: false

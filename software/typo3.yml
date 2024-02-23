@@ -1,13 +1,13 @@
-name: TYPO3
-website_url: https://typo3.org/
-description: Powerful and advanced CMS with a large community.
+name: "TYPO3"
+website_url: "https://typo3.org/"
+description: "Powerful and advanced CMS with a large community."
 licenses:
   - GPL-2.0
 platforms:
   - PHP
 tags:
   - Content Management Systems (CMS)
-source_code_url: https://github.com/TYPO3/typo3
+source_code_url: "https://github.com/TYPO3/typo3"
 stargazers_count: 994
 updated_at: '2024-02-22'
 archived: false

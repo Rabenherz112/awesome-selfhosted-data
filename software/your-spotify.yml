@@ -1,6 +1,6 @@
-name: Your Spotify
-website_url: https://github.com/Yooooomi/your_spotify
-description: Allows you to record your Spotify listening activity and have statistics about them served through a Web application.
+name: "Your Spotify"
+website_url: "https://github.com/Yooooomi/your_spotify"
+description: "Allows you to record your Spotify listening activity and have statistics about them served through a Web application."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Personal Dashboards
-source_code_url: https://github.com/Yooooomi/your_spotify
+source_code_url: "https://github.com/Yooooomi/your_spotify"
 depends_3rdparty: true
 stargazers_count: 2313
 updated_at: '2023-12-27'

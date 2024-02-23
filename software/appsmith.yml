@@ -1,6 +1,6 @@
-name: Appsmith
-website_url: https://www.appsmith.com/
-description: Cloud or self-hosted open-source platform to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster.
+name: "Appsmith"
+website_url: "https://www.appsmith.com/"
+description: "Cloud or self-hosted open-source platform to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster."
 licenses:
   - Apache-2.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - K8S
 tags:
   - Software Development - Low Code
-source_code_url: https://github.com/appsmithorg/appsmith
+source_code_url: "https://github.com/appsmithorg/appsmith"
 stargazers_count: 30820
 updated_at: '2024-02-22'
 archived: false

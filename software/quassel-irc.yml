@@ -1,13 +1,13 @@
-name: Quassel IRC
-website_url: https://quassel-irc.org/
-description: Distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core.
+name: "Quassel IRC"
+website_url: "https://quassel-irc.org/"
+description: "Distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core."
 licenses:
   - GPL-2.0
 platforms:
   - C++
 tags:
   - Communication - IRC
-source_code_url: https://github.com/quassel/quassel
+source_code_url: "https://github.com/quassel/quassel"
 stargazers_count: 711
 updated_at: '2023-09-14'
 archived: false

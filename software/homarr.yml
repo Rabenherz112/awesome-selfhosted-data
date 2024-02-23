@@ -1,6 +1,6 @@
-name: Homarr
-website_url: https://homarr.dev
-description: Sleek, modern dashboard with many integrations and web-based config.
+name: "Homarr"
+website_url: "https://homarr.dev"
+description: "Sleek, modern dashboard with many integrations and web-based config."
 licenses:
   - MIT
 platforms:
@@ -8,8 +8,8 @@ platforms:
   - Nodejs
 tags:
   - Personal Dashboards
-source_code_url: https://github.com/ajnart/homarr
-demo_url: https://demo.homarr.dev
+source_code_url: "https://github.com/ajnart/homarr"
+demo_url: "https://demo.homarr.dev"
 stargazers_count: 4614
 updated_at: '2024-02-20'
 archived: false

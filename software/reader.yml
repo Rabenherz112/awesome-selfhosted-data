@@ -1,13 +1,13 @@
-name: reader
-website_url: https://github.com/lemon24/reader
-description: A Python feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies.
+name: "reader"
+website_url: "https://github.com/lemon24/reader"
+description: "A Python feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies."
 licenses:
   - BSD-3-Clause
 platforms:
   - Python
 tags:
   - Feed Readers
-source_code_url: https://github.com/lemon24/reader
+source_code_url: "https://github.com/lemon24/reader"
 stargazers_count: 399
 updated_at: '2024-02-13'
 archived: false

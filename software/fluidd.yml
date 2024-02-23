@@ -1,6 +1,6 @@
-name: Fluidd
-website_url: https://docs.fluidd.xyz/
-description: Lightweight & responsive user interface for Klipper, the 3D printer firmware.
+name: "Fluidd"
+website_url: "https://docs.fluidd.xyz/"
+description: "Lightweight & responsive user interface for Klipper, the 3D printer firmware."
 licenses:
   - GPL-3.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Nodejs
 tags:
   - Manufacturing
-source_code_url: https://github.com/fluidd-core/fluidd
+source_code_url: "https://github.com/fluidd-core/fluidd"
 stargazers_count: 1211
 updated_at: '2024-02-20'
 archived: false

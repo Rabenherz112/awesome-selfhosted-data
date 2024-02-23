@@ -1,10 +1,10 @@
-name: Crucible
-website_url: https://www.atlassian.com/software/crucible
-description: Peer code review application.
+name: "Crucible"
+website_url: "https://www.atlassian.com/software/crucible"
+description: "Peer code review application."
 licenses:
   - ⊘ Proprietary
 platforms:
   - Java
 tags:
   - Software Development - Project Management
-source_code_url: https://www.atlassian.com/software/crucible
+source_code_url: "https://www.atlassian.com/software/crucible"

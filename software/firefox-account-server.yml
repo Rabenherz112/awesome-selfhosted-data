@@ -1,6 +1,6 @@
-name: Firefox Account Server
-website_url: https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html
-description: This allows you to host your own Firefox accounts server.
+name: "Firefox Account Server"
+website_url: "https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html"
+description: "This allows you to host your own Firefox accounts server."
 licenses:
   - MPL-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Java
 tags:
   - Bookmarks and Link Sharing
-source_code_url: https://github.com/mozilla/fxa
+source_code_url: "https://github.com/mozilla/fxa"
 stargazers_count: 549
 updated_at: '2024-02-22'
 archived: false

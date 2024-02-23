@@ -1,6 +1,6 @@
-name: Koblas
-website_url: https://github.com/ynuwenhof/koblas
-description: Lightweight SOCKS5 proxy server.
+name: "Koblas"
+website_url: "https://github.com/ynuwenhof/koblas"
+description: "Lightweight SOCKS5 proxy server."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Proxy
-source_code_url: https://github.com/ynuwenhof/koblas
+source_code_url: "https://github.com/ynuwenhof/koblas"
 stargazers_count: 48
 updated_at: '2024-02-11'
 archived: false

@@ -1,6 +1,6 @@
-name: Druid
-website_url: http://druid.io/
-description: Distributed, column-oriented, real-time analytics data store.
+name: "Druid"
+website_url: "http://druid.io/"
+description: "Distributed, column-oriented, real-time analytics data store."
 licenses:
   - Apache-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Analytics
-source_code_url: https://github.com/apache/druid
+source_code_url: "https://github.com/apache/druid"
 stargazers_count: 13104
 updated_at: '2024-02-22'
 archived: false

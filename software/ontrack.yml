@@ -1,6 +1,6 @@
-name: OnTrack
-website_url: https://github.com/inoda/ontrack
-description: A simple app to track spend and set goals.
+name: "OnTrack"
+website_url: "https://github.com/inoda/ontrack"
+description: "A simple app to track spend and set goals."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Nodejs
 tags:
   - Money, Budgeting & Management
-source_code_url: https://github.com/inoda/ontrack
+source_code_url: "https://github.com/inoda/ontrack"
 stargazers_count: 768
 updated_at: '2023-10-13'
 archived: false

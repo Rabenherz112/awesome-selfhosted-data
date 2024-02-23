@@ -1,6 +1,6 @@
-name: Trudesk
-website_url: https://trudesk.io/
-description: Trudesk is an open-source help desk/ticketing solution.
+name: "Trudesk"
+website_url: "https://trudesk.io/"
+description: "Trudesk is an open-source help desk/ticketing solution."
 licenses:
   - Apache-2.0
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Ticketing
-source_code_url: https://github.com/polonel/trudesk
+source_code_url: "https://github.com/polonel/trudesk"
 stargazers_count: 1154
 updated_at: '2024-02-20'
 archived: false

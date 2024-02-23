@@ -1,14 +1,14 @@
-name: AWStats
-website_url: http://www.awstats.org/
-description: Generate statistics from web, streaming, ftp or mail server logfiles.
+name: "AWStats"
+website_url: "http://www.awstats.org/"
+description: "Generate statistics from web, streaming, ftp or mail server logfiles."
 licenses:
   - GPL-3.0
 platforms:
   - Perl
 tags:
   - Analytics
-source_code_url: https://github.com/eldy/awstats
-demo_url: https://www.awstats.org/#DEMO
+source_code_url: "https://github.com/eldy/awstats"
+demo_url: "https://www.awstats.org/#DEMO"
 stargazers_count: 344
 updated_at: '2023-09-02'
 archived: false

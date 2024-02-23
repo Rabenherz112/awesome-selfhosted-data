@@ -1,6 +1,6 @@
-name: SwingMusic
-website_url: https://swingmusic.vercel.app/
-description: Swing Music is a beautiful, self-hosted music player and streaming server for your local audio files. Like a cooler Spotify ... but bring your own music.
+name: "SwingMusic"
+website_url: "https://swingmusic.vercel.app/"
+description: "Swing Music is a beautiful, self-hosted music player and streaming server for your local audio files. Like a cooler Spotify ... but bring your own music."
 licenses:
   - MIT
 platforms:
@@ -8,7 +8,7 @@ platforms:
   - Docker
 tags:
   - Media Streaming - Audio Streaming
-source_code_url: https://github.com/swing-opensource/swingmusic
+source_code_url: "https://github.com/swing-opensource/swingmusic"
 stargazers_count: 533
 updated_at: '2024-02-16'
 archived: false

@@ -1,6 +1,6 @@
-name: Yacy
-website_url: https://yacy.net/en/index.html
-description: Peer based, decentralized search engine server.
+name: "Yacy"
+website_url: "https://yacy.net/en/index.html"
+description: "Peer based, decentralized search engine server."
 licenses:
   - GPL-2.0
 platforms:
@@ -9,7 +9,7 @@ platforms:
   - K8S
 tags:
   - Search Engines
-source_code_url: https://github.com/yacy/yacy_search_server
+source_code_url: "https://github.com/yacy/yacy_search_server"
 stargazers_count: 3157
 updated_at: '2023-12-20'
 archived: false
