@@ -1,0 +1,11 @@
+name: ASWG
+website_url: https://github.com/Rabenherz/aswg
+description: Dummy Content with a bad Repo.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+  - deb
+tags:
+  - Communication - SIP
+source_code_url: https://github.com/Rabenherz/aswg
