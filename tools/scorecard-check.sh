@@ -6,9 +6,9 @@
 # SCORECARD_THRESHOLD. Invoked by `make scorecard` - see the Makefile for the
 # configurable variables.
 #
-# By default it checks the software/*.yml files added/modified between
-# SCORECARD_BASE and HEAD (i.e. the current pull request). Set SCORECARD_REPO to
-# check a single repository instead (handy for reviewing one submission locally).
+# By default it checks the software/*.yml files added between SCORECARD_BASE and
+# HEAD (i.e. the current pull request). Set SCORECARD_REPO to check a single
+# repository instead (handy for reviewing one submission locally).
 #
 # Only GitHub and GitLab are supported by Scorecard; entries on other forges are
 # skipped (not failed). Tooling/evaluation errors (network, auth, 404, rate limit)
@@ -25,75 +25,116 @@ SCORECARD_THRESHOLD="${SCORECARD_THRESHOLD:-5.0}"
 SCORECARD_BASE="${SCORECARD_BASE:-origin/master}"
 SCORECARD_REPO="${SCORECARD_REPO:-}"
 SCORECARD_STRICT="${SCORECARD_STRICT:-}"
+SCORECARD_DIFF_FILTER="${SCORECARD_DIFF_FILTER:-A}" # Only check by default git diff statuses. "A" (added)
 
-# Collect the "<label> <url>" targets to evaluate.
-targets=()
-if [ -n "$SCORECARD_REPO" ]; then
-  targets+=("(manual) $SCORECARD_REPO")
-else
-  files=()
-  while IFS= read -r line; do
-    [ -n "$line" ] && files+=("$line")
-  done < <(git diff --name-only --diff-filter=AM "$SCORECARD_BASE"...HEAD -- software/ 2>/dev/null || true)
-  for f in "${files[@]:-}"; do
-    [ -n "$f" ] || continue
-    url=$(sed -n 's/^source_code_url:[[:space:]]*//p' "$f" | head -n1 | tr -d '\r"' )
-    [ -n "$url" ] && targets+=("$f $url")
-  done
-fi
+files=()   # yml paths, index-aligned with repos[]
+repos=()   # normalized host/owner/repo
 
-if [ "${#targets[@]}" -eq 0 ]; then
-  echo "OpenSSF Scorecard: no added/modified software entries to check."
+# List software/*.yml paths added between SCORECARD_BASE and HEAD.
+# NUL-delimited and quotePath=false so non-ASCII names (baikal, pønskelisten,
+# µtask...) are not returned C-quoted and unreadable.
+list_changed_files() {
+  git -c core.quotePath=false diff -z --name-only \
+    --diff-filter="$SCORECARD_DIFF_FILTER" "$SCORECARD_BASE...HEAD" -- software/ 2>/dev/null || true
+}
+
+# Print the source_code_url value of a yml file.
+read_source_url() {
+  sed -n 's/^source_code_url:[[:space:]]*//p' "$1" | head -n1 | tr -d '\r"'
+}
+
+# Strip the scheme and trailing slashes to get the host/owner/repo form Scorecard expects.
+normalize_repo() {
+  echo "$1" | sed -E 's#^https?://##; s#/+$##'
+}
+
+# Print a classification for a normalized repo: supported, unsupported, or malformed.
+# GitHub must be exactly owner/repo; GitLab may nest subgroups (owner/sub/repo).
+classify_repo() {
+  local segments; segments=$(echo "$1" | awk -F/ '{print NF}')
+  case "$1" in
+    github.com/*) [ "$segments" -eq 3 ] && echo supported || echo malformed ;;
+    gitlab.com/*) [ "$segments" -ge 3 ] && echo supported || echo malformed ;;
+    *) echo unsupported ;;
+  esac
+}
+
+# Populate files[]/repos[] from SCORECARD_REPO or from the git diff, deduplicated.
+collect_targets() {
+  if [ -n "$SCORECARD_REPO" ]; then
+    files+=("(manual)"); repos+=("$(normalize_repo "$SCORECARD_REPO")")
+    return
+  fi
+  local f url repo
+  while IFS= read -r -d '' f; do
+    [ -f "$f" ] || continue
+    url=$(read_source_url "$f")
+    [ -n "$url" ] || continue
+    repo=$(normalize_repo "$url")
+    case " ${repos[*]:-} " in *" $repo "*) continue ;; esac
+    files+=("$f"); repos+=("$repo")
+  done < <(list_changed_files)
+}
+
+# Print the aggregate score from a Scorecard JSON document, or "-1" if absent.
+parse_score() {
+  printf '%s' "$1" | python3 -c 'import sys,json
+d = json.load(sys.stdin); s = d.get("score")
+print(s if isinstance(s, (int, float)) else -1)' 2>/dev/null || echo "-1"
+}
+
+# Print the per-check breakdown of a Scorecard JSON document, lowest scores first.
+print_checks() {
+  printf '%s' "$1" | python3 -c 'import sys,json
+for c in sorted(json.load(sys.stdin).get("checks", []), key=lambda x: x.get("score") if isinstance(x.get("score"), int) and x.get("score") >= 0 else 99):
+    s = c.get("score")
+    s = "?" if not isinstance(s, int) or s < 0 else str(s)
+    print("        %-22s %3s  %s" % (c.get("name", "?"), s, c.get("reason") or ""))' 2>/dev/null || true
+}
+
+# Record a non-fatal evaluation problem, escalating to a failure under strict mode.
+warn_or_fail() {
+  echo "WARN  $1"
+  [ -n "$SCORECARD_STRICT" ] && { echo "STRICT: treating as failure."; fail=1; }
+  return 0
+}
+
+collect_targets
+
+if [ "${#repos[@]}" -eq 0 ]; then
+  echo "OpenSSF Scorecard: no added software entries to check."
   exit 0
 fi
 
-echo "OpenSSF Scorecard: threshold >= $SCORECARD_THRESHOLD (strict=${SCORECARD_STRICT:-off})"
+echo "OpenSSF Scorecard: ${#repos[@]} entries, threshold >= $SCORECARD_THRESHOLD (strict=${SCORECARD_STRICT:-off})"
 
 fail=0
-for t in "${targets[@]}"; do
-  file="${t%% *}"
-  url="${t#* }"
-  # normalize https://host/owner/repo/ -> host/owner/repo
-  repo=$(echo "$url" | sed -E 's#^https?://##; s#/+$##')
-
-  case "$repo" in
-    github.com/*|gitlab.com/*) ;;
-    *)
-      echo "SKIP  $file -> $url (unsupported forge; Scorecard supports GitHub/GitLab only)"
-      continue
-      ;;
+for i in "${!repos[@]}"; do
+  file="${files[$i]}"; repo="${repos[$i]}"
+  case "$(classify_repo "$repo")" in
+    unsupported)
+      echo "SKIP  $file -> $repo (Scorecard supports GitHub/GitLab only)"; continue ;;
+    malformed)
+      echo "SKIP  $file -> $repo (not a host/owner/repo URL)"
+      [ -n "$SCORECARD_STRICT" ] && { echo "STRICT: treating as failure."; fail=1; }
+      continue ;;
   esac
 
   echo "----------------------------------------------------------------------"
   echo "CHECK $file -> $repo"
 
-  if ! json=$("$SCORECARD_BIN" --repo="$repo" --format=json 2>/dev/null); then
-    echo "WARN  could not run Scorecard on $repo (network/auth/404/rate-limit?)"
-    [ -n "$SCORECARD_STRICT" ] && { echo "STRICT: treating as failure."; fail=1; }
-    continue
+  if ! json=$("$SCORECARD_BIN" --repo="$repo" --format=json); then
+    warn_or_fail "could not run Scorecard on $repo (network/auth/404/rate-limit?)"; continue
   fi
 
-  score=$(printf '%s' "$json" | python3 -c 'import sys,json; print(json.load(sys.stdin).get("score", -1))' 2>/dev/null || echo "-1")
-
-  # per-check breakdown, lowest scores first
-  printf '%s' "$json" | python3 -c '
-import sys, json
-data = json.load(sys.stdin)
-for c in sorted(data.get("checks", []), key=lambda x: (x.get("score") is not None, x.get("score") or 0)):
-    s = c.get("score")
-    s = "?" if s is None or s < 0 else str(s)
-    print("        %-22s %3s  %s" % (c.get("name", "?"), s, (c.get("reason") or "")))
-' 2>/dev/null || true
+  score=$(parse_score "$json")
+  print_checks "$json"
 
   if awk "BEGIN{exit !($score < 0)}"; then
-    echo "WARN  $repo: aggregate score unavailable (score=$score)"
-    [ -n "$SCORECARD_STRICT" ] && { echo "STRICT: treating as failure."; fail=1; }
-    continue
+    warn_or_fail "$repo: aggregate score unavailable (score=$score)"; continue
   fi
-
   if awk "BEGIN{exit !($score < $SCORECARD_THRESHOLD)}"; then
-    echo "FAIL  $repo: score $score < threshold $SCORECARD_THRESHOLD"
-    fail=1
+    echo "FAIL  $repo: score $score < threshold $SCORECARD_THRESHOLD"; fail=1
   else
     echo "PASS  $repo: score $score >= threshold $SCORECARD_THRESHOLD"
   fi
