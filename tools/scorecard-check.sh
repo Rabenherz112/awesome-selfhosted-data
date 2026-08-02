@@ -122,16 +122,16 @@ for i in "${!repos[@]}"; do
 
   echo "----------------------------------------------------------------------"
   echo "CHECK $file -> $repo"
-
-  if ! json=$("$SCORECARD_BIN" --repo="$repo" --format=json); then
-    warn_or_fail "could not run Scorecard on $repo (network/auth/404/rate-limit?)"; continue
-  fi
-
+ 
+  # Scorecard exits non-zero if any single check errors, but it writes the full
+  # result to stdout first. Individual failed checks score -1 and drop out of the
+  # aggregate, so judge on the JSON rather than the exit code.
+  json=$("$SCORECARD_BIN" --repo="$repo" --format=json) || true
   score=$(parse_score "$json")
   print_checks "$json"
-
+ 
   if awk "BEGIN{exit !($score < 0)}"; then
-    warn_or_fail "$repo: aggregate score unavailable (score=$score)"; continue
+    warn_or_fail "$repo: no usable result (network/auth/404/rate-limit?)"; continue
   fi
   if awk "BEGIN{exit !($score < $SCORECARD_THRESHOLD)}"; then
     echo "FAIL  $repo: score $score < threshold $SCORECARD_THRESHOLD"; fail=1
