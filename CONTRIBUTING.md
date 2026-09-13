@@ -20,8 +20,7 @@ You may:
 - Review an entry the person wrote themselves and tell them what looks wrong, without rewriting it for them.
 - Check whether a project meets the objective requirements: first release more than four months old, actively maintained, working installation instructions, not already listed elsewhere.
 
-The line is between helping a person understand the rules, which is welcome, and
-producing the submission, which is not.
+The line is between helping a person understand the rules, which is welcome, and producing the submission, which is not.
 -->
 
 Don't know where to start? Check issues labeled [`help wanted`](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22), [`bug`](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues?q=is%3Aissue+is%3Aopen+label%3Abug) and [`curation`](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues?q=is%3Aissue+is%3Aopen+label%3Acuration).
